@@ -1,0 +1,896 @@
+Title,Year,Age,IMDb,Rotten Tomatoes,Directors,Genres,Country,Language,Runtime
+Blackfish,2013,13,8.1,0.98,Gabriela Cowperthwaite,"Documentary,News",United States,"English,Spanish",83
+Jiro Dreams of Sushi,2011,7,7.9,0.99,David Gelb,Documentary,United States,Japanese,81
+The Patriot,2000,18,7.2,0.61,Roland Emmerich,"Action,Drama,History,War","United States,Germany","English,French",165
+The Square,2013,,8.1,1.00,Ruben Östlund,"Comedy,Drama","Sweden,Germany,France,Denmark,United States","Swedish,English,Danish",151
+Hitch,2005,13,6.6,0.68,Andy Tennant,"Comedy,Romance",United States,English,118
+Hey Arnold! The Jungle Movie,2017,7,7.6,1.00,"Raymie Muzquiz,Stu Livingston","Animation,Adventure,Comedy,Family,Fantasy","United States,South Korea,Japan","English,Korean",81
+The Interview,2014,18,6.5,0.52,"Evan Goldberg,Seth Rogen","Action,Adventure,Comedy",United States,"English,Korean",112
+Blame!,2017,13,6.7,0.82,Hiroyuki Seshita,"Animation,Action,Drama,Sci-Fi,Thriller",Japan,Japanese,106
+Evolution,2001,13,6.1,0.43,Ivan Reitman,"Comedy,Sci-Fi",United States,English,101
+The Oath,2016,,6.4,0.75,,"Crime,Drama",United States,English,60
+Little Monsters,1989,7,6.1,0.50,Abe Forsythe,"Comedy,Horror","United Kingdom,Australia,United States",English,93
+Lost in London,2017,,6.2,0.75,Woody Harrelson,"Comedy,Drama","United States,United Kingdom",English,103
+Gemini,2018,18,5.4,0.71,David Cronenberg,"Drama,Horror,Thriller",Canada,English,116
+No Game No Life: Zero,2017,13,7.5,,Atsuko Ishizuka,"Animation,Adventure,Comedy,Drama,Fantasy,Romance",Japan,Japanese,110
+Major League II,1994,7,5.6,0.05,David S. Ward,"Comedy,Sport",United States,English,105
+A Second Chance,2015,,7.1,,Clay Glen,"Drama,Family,Sport",Australia,English,90
+The Cat in the Hat,2003,7,3.9,0.09,Bo Welch,"Adventure,Comedy,Family,Fantasy",United States,English,82
+Big Time Movie,2012,0,6.5,,Savage Steve Holland,Comedy,"United States,Canada",English,68
+Zapped,2014,0,5.1,,Peter DeLuise,"Comedy,Family,Fantasy","Canada,United States",English,102
+Mother,2016,,5.6,,Darren Aronofsky,"Drama,Horror,Mystery",United States,English,121
+Escape from Mr. Lemoncello's Library,2017,0,5.3,,Scott McAboy,Family,United States,English,69
+A Fairly Odd Summer,2014,0,4,,Savage Steve Holland,"Animation,Comedy,Family,Fantasy",United States,English,68
+LeapFrog: Phonics Farm,2011,,5.5,,Ron Myrick,"Animation,Short",United States,English,38
+LeapFrog: Numberland,2012,0,5.8,,Ron Myrick,"Animation,Short",United States,English,36
+The Dark Knight,2008,13,9,0.94,Christopher Nolan,"Action,Crime,Drama,Thriller","United States,United Kingdom","English,Mandarin",152
+GoodFellas,1990,18,8.7,0.96,Martin Scorsese,"Biography,Crime,Drama",United States,"English,Italian",146
+Parasite,2019,18,8.6,0.99,Bong Joon Ho,"Comedy,Drama,Thriller",South Korea,"Korean,English",132
+Good Will Hunting,1997,18,8.3,0.97,Gus Van Sant,"Drama,Romance",United States,English,126
+The Green Mile,1999,18,8.6,0.78,Frank Darabont,"Crime,Drama,Fantasy,Mystery",United States,"English,French",189
+Batman Begins,2005,13,8.2,0.84,Christopher Nolan,"Action,Adventure","United States,United Kingdom","English,Mandarin",140
+Grave of the Fireflies,1988,7,8.5,0.98,Isao Takahata,"Animation,Drama,War",Japan,Japanese,89
+Kill Bill: Vol. 1,2003,18,8.1,0.85,Quentin Tarantino,"Action,Crime,Thriller","United States,Japan","English,Japanese,French",111
+Zombieland,2009,18,7.6,0.90,Ruben Fleischer,"Adventure,Comedy,Fantasy,Sci-Fi",United States,English,88
+A Quiet Place,2018,13,7.5,0.95,John Krasinski,"Drama,Horror,Sci-Fi",United States,"English,American Sign Language",90
+Kill Bill: Vol. 2,2004,18,8,0.84,Quentin Tarantino,"Action,Crime,Thriller",United States,"English,Cantonese,Mandarin,Spanish",137
+Let the Right One In,2008,18,7.9,0.98,Tomas Alfredson,"Drama,Horror,Romance",Sweden,"Swedish,Spanish",114
+True Grit,2010,13,7.6,0.96,"Ethan Coen,Joel Coen","Drama,Western",United States,English,110
+Akira,1988,18,8,0.90,Katsuhiro Ôtomo,"Animation,Drama,Sci-Fi,Thriller",Japan,Japanese,124
+50/50,2011,18,7.6,0.93,Jonathan Levine,"Comedy,Drama,Romance",United States,English,100
+Hunt for the Wilderpeople,2016,13,7.9,0.96,Taika Waititi,"Adventure,Comedy,Drama",New Zealand,English,101
+The Graduate,1967,7,8,0.86,Mike Nichols,"Comedy,Drama,Romance",United States,English,106
+Portrait of a Lady on Fire,2019,18,8.2,0.98,Céline Sciamma,"Drama,Romance",France,"French,Italian",122
+Misery,1990,18,7.8,0.90,Rob Reiner,"Drama,Thriller",United States,English,107
+The Conjuring,2013,18,7.5,0.85,James Wan,"Horror,Mystery,Thriller",United States,"English,Latin",112
+Free Solo,2018,13,8.2,0.97,"Jimmy Chin,Elizabeth Chai Vasarhelyi","Documentary,Adventure,Sport",United States,English,100
+Captain Fantastic,2016,18,7.9,0.82,Matt Ross,"Comedy,Drama",United States,"English,Esperanto",118
+"I, Tonya",2017,18,7.5,0.89,Craig Gillespie,"Biography,Comedy,Drama,Sport","United Kingdom,United States,Qatar",English,119
+Blazing Saddles,1974,18,7.7,0.89,Mel Brooks,"Comedy,Western",United States,"English,Yiddish,German",93
+Shoplifters,2018,18,8,0.99,Hirokazu Koreeda,"Crime,Drama",Japan,Japanese,121
+Up in the Air,2009,18,7.4,0.91,Jason Reitman,"Comedy,Drama,Romance",United States,English,109
+The Cabin in the Woods,2012,18,7,0.92,Drew Goddard,Horror,United States,"English,Japanese",95
+How to Train Your Dragon: The Hidden World,2019,7,7.5,0.91,Dean DeBlois,"Animation,Action,Adventure,Family,Fantasy","United States,Japan",English,104
+Escape from Alcatraz,1979,7,7.6,0.96,Don Siegel,"Biography,Crime,Drama,Thriller",United States,English,112
+Star Trek II: The Wrath of Khan,1982,7,7.7,0.87,Nicholas Meyer,"Action,Adventure,Sci-Fi",United States,English,113
+Apollo 11,2019,0,8.2,0.99,Todd Douglas Miller,"Documentary,History",United States,English,93
+Booksmart,2019,18,7.2,0.97,Olivia Wilde,Comedy,United States,"English,Mandarin,Spanish",102
+Super 8,2011,13,7,0.81,J.J. Abrams,"Mystery,Sci-Fi,Thriller",United States,English,112
+Mission: Impossible - Fallout,2018,13,7.7,0.97,Christopher McQuarrie,"Action,Adventure,Thriller","United States,China,France,Norway,United Kingdom","English,French",147
+Coherence,2013,7,7.2,0.88,James Ward Byrkit,"Drama,Horror,Mystery,Sci-Fi,Thriller","United States,United Kingdom",English,89
+Annihilation,2018,18,6.9,0.88,Alex Garland,"Adventure,Drama,Horror,Mystery,Sci-Fi,Thriller","United Kingdom,United States",English,115
+Heathers,1989,18,7.2,0.93,Michael Lehmann,"Comedy,Crime",United States,English,103
+The Descent,2005,18,7.2,0.85,Neil Marshall,"Adventure,Horror,Thriller",United Kingdom,English,99
+The Guilty,2018,18,7.5,0.97,Gustav Möller,"Crime,Drama,Thriller",Denmark,Danish,85
+Fighting with My Family,2019,13,7.1,0.93,Stephen Merchant,"Biography,Comedy,Drama,Sport","United Kingdom,United States,Mexico",English,108
+Bumblebee,2018,13,6.8,0.91,Travis Knight,"Action,Adventure,Sci-Fi","China,United States",English,114
+Rango,2011,7,7.2,0.88,Gore Verbinski,"Animation,Adventure,Comedy,Family,Western",United States,English,107
+Instant Family,2018,13,7.3,0.81,Sean Anders,"Comedy,Drama",United States,"English,Spanish",118
+13 Assassins,2010,18,7.6,0.95,Takashi Miike,"Action,Adventure,Drama","Japan,United Kingdom",Japanese,141
+The Host,2006,18,7.1,0.93,Bong Joon Ho,"Action,Drama,Horror,Sci-Fi",South Korea,"Korean,English",120
+Volver,2006,18,7.6,0.91,Pedro Almodóvar,"Comedy,Drama",Spain,Spanish,121
+We Need to Talk About Kevin,2011,18,7.5,0.75,Lynne Ramsay,"Drama,Mystery,Thriller","United Kingdom,United States",English,112
+Let Me In,2010,18,7.1,0.88,Matt Reeves,"Drama,Fantasy,Horror,Mystery,Thriller","United Kingdom,United States",English,116
+Three Identical Strangers,2018,13,7.7,0.97,Tim Wardle,"Documentary,Biography,Drama,History,Mystery",United Kingdom,English,96
+A Simple Favor,2018,18,6.8,0.85,Paul Feig,"Comedy,Crime,Drama,Mystery,Thriller","Canada,United States",English,117
+Creed II,2018,13,7.1,0.84,Steven Caple Jr.,"Drama,Sport",United States,"English,Russian,Sign Languages",130
+Loving Vincent,2017,13,7.8,0.85,"Dorota Kobiela,Hugh Welchman","Animation,Biography,Crime,Drama,Family,Mystery","Poland,United Kingdom,United States,Switzerland,Netherlands",English,94
+Megamind,2010,7,7.2,0.72,Tom McGrath,"Animation,Action,Comedy,Family,Sci-Fi",United States,English,95
+Honeyland,2019,,8,1.00,"Tamara Kotevska,Ljubomir Stefanov","Documentary,Drama",Republic of North Macedonia,"Turkish,Macedonian,Serbo-Croatian,Bosnian",89
+The Full Monty,1997,18,7.2,0.96,Peter Cattaneo,"Comedy,Drama","United Kingdom,United States",English,91
+Abominable,2019,7,7,0.81,"Jill Culton,Todd Wilderman","Animation,Adventure,Comedy,Family,Fantasy","China,United States,Japan","English,Mandarin",97
+The Chaser,2008,13,7.9,0.82,Hong-jin Na,"Action,Crime,Thriller",South Korea,Korean,125
+Hotel Mumbai,2018,18,7.6,0.76,Anthony Maras,"Action,Drama,History,Thriller","Australia,United States,United Kingdom,India,Singapore",English,123
+Nobody Knows,2004,13,8.1,0.93,Hirokazu Koreeda,Drama,Japan,Japanese,141
+Ninja Scroll,1993,18,7.9,0.93,Yoshiaki Kawajiri,"Animation,Action,Adventure,Fantasy,Thriller",Japan,Japanese,94
+Chicken Run,2000,0,7,0.97,"Peter Lord,Nick Park","Animation,Adventure,Comedy,Drama,Family","United Kingdom,United States,France",English,84
+Swingers,1996,18,7.2,0.87,Doug Liman,"Comedy,Drama",United States,English,96
+"Food, Inc.",2008,7,7.8,0.95,Robert Kenner,"Documentary,News",United States,English,94
+Embrace of the Serpent,2015,,7.9,0.96,Ciro Guerra,"Adventure,Drama","Colombia,Venezuela,Argentina","Spanish,Portuguese,Aboriginal,German,Catalan,Latin,English",125
+Melancholia,2011,18,7.2,0.80,Lars von Trier,"Drama,Sci-Fi","Denmark,Sweden,France,Germany",English,135
+Minding the Gap,2019,18,8.1,1.00,Bing Liu,Documentary,United States,English,93
+The Second Mother,2015,18,7.8,0.97,Anna Muylaert,"Comedy,Drama",Brazil,Portuguese,112
+Notes on a Scandal,2006,18,7.4,0.87,Richard Eyre,"Crime,Drama,Romance,Thriller",United Kingdom,"English,French",92
+Star Trek VI: The Undiscovered Country,1991,7,7.2,0.82,Nicholas Meyer,"Action,Adventure,Sci-Fi,Thriller",United States,"English,Klingon",110
+Love & Mercy,2015,13,7.4,0.90,Bill Pohlad,"Biography,Drama,Music",United States,English,121
+A Taxi Driver,2017,,7.8,0.96,Hun Jang,"Action,Drama,History",South Korea,"Korean,German,English,Japanese",137
+The Prince of Egypt,1998,7,7.1,0.80,"Brenda Chapman,Steve Hickner,Simon Wells","Animation,Adventure,Drama,Family,Fantasy,Musical",United States,"English,Hebrew",99
+Tickled,2016,18,7.6,0.94,"David Farrier,Dylan Reeve","Documentary,Mystery",New Zealand,English,92
+Sorry to Bother You,2018,18,6.9,0.93,Boots Riley,"Comedy,Fantasy,Sci-Fi",United States,English,112
+The Way Back,2010,13,7.3,0.74,Gavin O'Connor,"Drama,Sport",United States,English,108
+Detroit,2017,18,7.3,0.83,Kathryn Bigelow,"Crime,Drama,History,Thriller",United States,English,143
+Risky Business,1983,18,6.8,0.92,Paul Brickman,"Comedy,Crime,Drama,Romance",United States,"English,German",99
+The Biggest Little Farm,2019,7,8.1,0.91,John Chester,Documentary,United States,English,91
+Lucky,2017,,7.3,0.97,John Carroll Lynch,"Comedy,Drama,Western",United States,"English,Spanish",88
+Border,2018,18,7,0.97,Ali Abbasi,"Crime,Drama,Fantasy,Romance,Thriller","Sweden,Denmark","Swedish,English",110
+Natural Born Killers,1994,18,7.3,0.47,Oliver Stone,"Action,Crime,Drama",United States,"English,Navajo,Japanese",118
+If Beale Street Could Talk,2018,18,7.1,0.95,Barry Jenkins,"Drama,Romance",United States,"English,Spanish",119
+Horton Hears a Who!,2008,0,6.8,0.79,"Jimmy Hayward,Steve Martino","Animation,Adventure,Comedy,Family,Fantasy",United States,English,86
+Romancing the Stone,1984,7,6.9,0.84,Robert Zemeckis,"Action,Adventure,Comedy,Romance","Mexico,United States","English,Spanish,French",106
+The Beatles: Eight Days a Week - The Touring Years,2016,,7.8,0.96,Ron Howard,"Documentary,Music","United States,United Kingdom",English,106
+Phone Booth,2002,18,7,0.72,Joel Schumacher,"Crime,Thriller",United States,"English,Swahili",81
+Gods and Monsters,1998,18,7.4,0.95,Bill Condon,"Biography,Drama","United States,United Kingdom","English,Hungarian",105
+Force Majeure,2014,18,7.3,0.94,"Nat Faxon,Jim Rash","Comedy,Drama",United States,English,86
+Turtles Can Fly,2005,13,8.1,0.88,Bahman Ghobadi,"Drama,War","Iran,France,Iraq","Kurdish,Arabic,English",98
+Thelma,2017,,7,0.93,Joachim Trier,"Drama,Fantasy,Horror,Mystery,Romance,Thriller","Norway,France,Denmark,Sweden","Norwegian,Swedish",116
+The Sisters Brothers,2018,18,7,0.87,Jacques Audiard,"Crime,Drama,Western","France,Spain,Romania,Belgium,United States",English,122
+Tangerine,2015,18,7.1,0.96,Sean Baker,"Comedy,Crime,Drama",United States,"English,Armenian",88
+Monos,2019,18,7.1,0.92,Alejandro Landes,"Adventure,Drama,Thriller","Colombia,Argentina,Netherlands,Germany,Sweden,Uruguay,United States,Switzerland,Denmark,France","Spanish,English",102
+The Nightingale,2019,18,7.3,0.86,Jennifer Kent,"Adventure,Drama,Thriller",Australia,"English,Irish,Aboriginal",136
+BPM (Beats per Minute),2017,0,7.4,0.98,Robin Campillo,Drama,France,French,143
+Bend It Like Beckham,2002,13,6.6,0.85,Gurinder Chadha,"Comedy,Drama,Romance,Sport","United Kingdom,Germany,United States","English,Punjabi,Hindi,German",112
+Hud,1963,,7.8,0.82,Martin Ritt,"Drama,Western",United States,English,112
+Vice,2018,18,7.2,0.66,,Comedy,United States,English,28
+The Book of Eli,2010,18,6.9,0.47,"Albert Hughes,Allen Hughes","Action,Adventure,Drama,Thriller",United States,English,118
+The 12th Man,2017,,7.4,0.86,Harald Zwart,"Drama,History,Thriller,War",Norway,"Norwegian,German,English,Saami",135
+The Messenger,2009,18,7.1,0.89,Oren Moverman,"Drama,Romance,War",United States,"English,Spanish",113
+Cartel Land,2015,18,7.4,0.90,Matthew Heineman,"Documentary,News",United States,"English,Spanish",100
+Professor Marston and the Wonder Women,2017,18,7.1,0.86,Angela Robinson,"Biography,Drama",United States,English,108
+A Brilliant Young Mind,2014,13,7.1,0.87,Morgan Matthews,"Drama,Romance",United Kingdom,"English,Mandarin",111
+Antz,1998,7,6.5,0.93,"Eric Darnell,Tim Johnson","Animation,Adventure,Comedy,Family",United States,English,83
+The Next Three Days,2010,13,7.4,0.51,Paul Haggis,"Action,Crime,Drama,Romance,Thriller","United States,France",English,133
+Megan Leavey,2017,13,7.1,0.87,Gabriela Cowperthwaite,"Biography,Drama,War",United States,"English,Arabic",116
+Jesus Camp,2006,13,7.4,0.87,"Heidi Ewing,Rachel Grady",Documentary,United States,English,84
+RBG,2018,7,7.5,0.94,"Julie Cohen,Betsy West","Documentary,Biography",United States,"English,Italian,German,French",98
+Wild Rose,2019,18,7.2,0.92,Tom Harper,"Comedy,Drama,Music","United Kingdom,United States,Canada",English,101
+Kinsey,2004,18,7,0.90,Bill Condon,"Biography,Drama,Romance","United States,Germany",English,118
+Demolition Man,1993,18,6.7,0.59,Marco Brambilla,"Action,Sci-Fi,Thriller",United States,English,115
+Spirit: Stallion of the Cimarron,2002,0,7.1,0.70,"Kelly Asbury,Lorna Cook","Animation,Adventure,Drama,Family,Western",United States,English,83
+"The Good, The Bad, The Weird",2008,18,7.3,0.82,Jee-woon Kim,"Action,Adventure,Comedy,Western",South Korea,"Korean,Mandarin,Japanese",139
+"Waiting for ""Superman""",2010,7,7.5,0.90,Davis Guggenheim,Documentary,United States,English,111
+The Skeleton Twins,2014,18,6.8,0.87,Craig Johnson,"Comedy,Drama,Romance",United States,English,93
+I Can Only Imagine,2018,7,7.3,0.61,"Andrew Erwin,Jon Erwin","Biography,Drama,Family,Music",United States,English,110
+Woman at War,2018,,7.4,0.97,Benedikt Erlingsson,"Adventure,Comedy,Drama","Iceland,France,Ukraine","Icelandic,English,Ukrainian,Chinese,Spanish",101
+Johnny Guitar,1954,,7.7,0.93,Nicholas Ray,"Drama,Western",United States,English,110
+Jane,2017,7,7.8,0.98,Julian Jarrold,"Biography,Drama,Romance","United Kingdom,Ireland",English,120
+Monster House,2006,7,6.6,0.75,Gil Kenan,"Animation,Adventure,Comedy,Family,Fantasy,Mystery",United States,English,91
+Hail Satan?,2019,18,7.3,0.96,Penny Lane,Documentary,United States,English,95
+Ingrid Goes West,2017,18,6.6,0.86,Matt Spicer,"Comedy,Drama",United States,English,98
+Dogman,2018,,7.2,0.83,Matteo Garrone,"Crime,Drama,Thriller","Italy,France",Italian,103
+Anthropoid,2016,18,7.2,0.66,Sean Ellis,"Action,Biography,Drama,History,Romance,Thriller,War","Czech Republic,United Kingdom,United States,France","English,Czech,German",120
+Missing Link,2019,7,6.7,0.89,Chris Butler,"Animation,Adventure,Comedy,Family,Fantasy","Canada,United States","English,Spanish,Tibetan",93
+Star Trek III: The Search for Spock,1984,7,6.7,0.80,Leonard Nimoy,"Action,Adventure,Sci-Fi",United States,"English,Klingon,Russian,French",105
+Cashback,2006,18,7.2,0.46,Sean Ellis,"Comedy,Drama,Romance",United Kingdom,"English,Spanish",102
+"Juliet, Naked",2018,18,6.6,0.83,Jesse Peretz,"Comedy,Drama,Music,Romance","United States,United Kingdom",English,97
+The Absent One,2014,,7.1,0.92,Mikkel Nørgaard,"Crime,Mystery,Thriller","Denmark,Germany,Sweden","Danish,English,French",119
+Big Time Adolescence,2020,18,7,0.84,Jason Orley,Comedy,United States,English,91
+Get Smart,2008,13,6.5,0.50,Peter Segal,"Action,Adventure,Comedy",United States,"English,Russian,Punjabi,Arabic",110
+"Life, Animated",2016,7,7.5,0.94,Roger Ross Williams,"Documentary,Comedy,Drama,Family,Fantasy,Romance",United States,English,92
+Sands of Iwo Jima,1949,,7.1,1.00,Allan Dwan,"Action,Drama,Romance,War",United States,English,100
+Killer Joe,2011,18,6.7,0.79,William Friedkin,"Crime,Drama,Thriller",United States,English,102
+Sword Art Online: The Movie - Ordinal Scale,2017,13,7.4,1.00,Tomohiko Itô,"Animation,Action,Adventure,Fantasy,Sci-Fi",Japan,Japanese,119
+The Wave,2015,18,6.7,0.83,Gille Klabin,"Sci-Fi,Thriller",United States,English,90
+Colossal,2016,18,6.2,0.81,Nacho Vigalondo,"Comedy,Drama,Fantasy,Sci-Fi,Thriller","Canada,United States,Spain,South Korea","English,Korean",109
+Luce,2019,18,6.7,0.91,Julius Onah,"Drama,Mystery",United States,English,109
+Oculus,2014,18,6.5,0.75,Mike Flanagan,"Horror,Mystery",United States,English,104
+Standing in the Shadows of Motown,2002,7,7.8,0.91,Paul Justman,"Documentary,Music",United States,English,108
+Borg vs McEnroe,2017,18,6.9,0.84,Janus Metz,"Biography,Drama,Sport","Sweden,Denmark,Finland","English,Swedish,French,Spanish,German",107
+Denial,2016,13,6.7,0.82,Mick Jackson,"Biography,Drama","United Kingdom,United States","English,German,Hebrew",109
+Best of Enemies,2015,18,7.6,0.93,"Robert Gordon,Morgan Neville","Documentary,Biography,History",United States,English,87
+Prospect,2018,13,6.2,0.89,"Christopher Caldwell,Zeek Earl","Drama,Sci-Fi,Thriller,Western",Canada,English,100
+Arbitrage,2012,18,6.6,0.88,Nicholas Jarecki,"Drama,Thriller","United States,Poland",English,107
+Plus One,2019,,6.6,0.89,"Jeff Chan,Andrew Rhymer","Comedy,Drama,Romance",United States,English,98
+Active Measures,2018,13,7.9,0.80,Jack Bryan,Documentary,United States,English,109
+Amazing Grace,2018,0,7.5,0.99,Michael Apted,"Biography,Drama,History,Romance","United States,United Kingdom",English,118
+The Art of Self-Defense,2019,18,6.7,0.84,Riley Stearns,"Comedy,Crime,Drama,Mystery,Thriller",United States,"English,French,German",104
+The Clovehitch Killer,2018,13,6.5,0.78,Duncan Skiles,"Crime,Drama,Mystery,Thriller",United States,English,109
+Rare Exports: A Christmas Tale,2010,18,6.7,0.89,Jalmari Helander,"Adventure,Fantasy,Horror","Finland,Norway,France,Sweden","Finnish,English",84
+Venus in Fur,2013,,7.2,0.89,Roman Polanski,Drama,"France,Poland","French,German",96
+Jackass 3D,2010,18,7,0.65,Jeff Tremaine,"Documentary,Action,Comedy",United States,English,95
+I Kill Giants,2018,13,6.2,0.77,Anders Walter,"Drama,Fantasy,Thriller","United States,Belgium,Denmark,United Kingdom,Sweden,China",English,106
+The Queen of Versailles,2012,7,7.1,0.95,Lauren Greenfield,Documentary,"United States,Netherlands,United Kingdom,Denmark","French,English",100
+2 Days in Paris,2007,18,6.8,0.87,Julie Delpy,"Comedy,Drama,Romance","France,Germany","English,French",96
+The Wrecking Crew,2008,7,7.6,0.94,Phil Karlson,"Action,Adventure,Comedy,Crime,Drama,Thriller",United States,English,105
+The Villainess,2017,,6.7,0.84,Byung-gil Jung,"Action,Thriller",South Korea,Korean,124
+Europa Report,2013,13,6.4,0.81,Sebastián Cordero,"Drama,Mystery,Sci-Fi,Thriller",United States,"English,Russian,Chinese",90
+The Cooler,2003,18,6.9,0.77,Wayne Kramer,"Drama,Romance",United States,English,101
+In the Fade,2017,18,7.1,0.77,Fatih Akin,"Crime,Drama,Thriller","Germany,France","German,Greek,English,Turkish",106
+The Road to El Dorado,2000,7,6.9,0.48,"Bibo Bergeron,Don Paul,Jeffrey Katzenberg","Animation,Adventure,Comedy,Family,Romance",United States,English,89
+Christine,2016,18,6.9,0.88,John Carpenter,"Horror,Thriller",United States,English,110
+Hearts Beat Loud,2018,13,6.9,0.91,Brett Haley,"Comedy,Drama,Music",United States,English,97
+Whitney,2018,18,7.3,0.88,,Comedy,United States,English,30
+Angel of Mine,2019,18,6.5,0.71,Kim Farrant,"Drama,Mystery,Thriller","Australia,United States",English,98
+Hounds of Love,2016,,6.5,0.88,Ben Young,"Crime,Drama,Thriller",Australia,English,108
+Pawn Sacrifice,2015,13,7,0.72,Edward Zwick,"Biography,Drama,Sport,Thriller",United States,"English,Russian",115
+Transformers: Dark of the Moon,2011,13,6.2,0.35,Michael Bay,"Action,Adventure,Sci-Fi",United States,English,154
+Ben Is Back,2018,18,6.7,0.82,Peter Hedges,Drama,United States,English,103
+Wayne's World 2,1993,13,6.2,0.61,Stephen Surjik,"Comedy,Music",United States,"English,Cantonese",95
+No Strings Attached,2011,18,6.2,0.49,Ivan Reitman,"Comedy,Romance","United States,United Kingdom","English,Ukrainian",108
+Along with the Gods: The Two Worlds,2017,7,7.3,0.63,Yong-hwa Kim,"Action,Drama,Fantasy",South Korea,Korean,139
+Young & Beautiful,2013,,6.7,0.73,François Ozon,"Drama,Romance",France,"French,German",95
+The Pirates! In an Adventure with Scientists!,2012,7,6.7,0.86,"Peter Lord,Jeff Newitt","Animation,Adventure,Comedy,Family","United Kingdom,United States",English,88
+Lo and Behold: Reveries of the Connected World,2016,13,7,0.93,Werner Herzog,Documentary,United States,English,98
+Operation Finale,2018,13,6.6,0.60,Chris Weitz,"Biography,Drama,History,Thriller,War",United States,"English,Spanish,French,German",122
+78/52,2017,,7.3,0.89,Alexandre O. Philippe,Documentary,United States,English,91
+Gloria,2013,18,6.8,0.99,Edward Zwick,"Biography,Drama,History,War",United States,English,122
+Princess Cyd,2017,,6.7,0.94,Stephen Cone,"Drama,Romance",United States,English,96
+The Domestics,2018,18,5.7,1.00,Mike P. Nelson,"Action,Horror,Sci-Fi,Thriller",United States,English,95
+Andy Irons: Kissed by God,2018,,8.3,1.00,"Steve Jones,Todd Jones",Documentary,United States,English,100
+Joe Strummer: The Future Is Unwritten,2007,,7.6,0.89,Julien Temple,"Documentary,Biography,Music","Ireland,United Kingdom",English,124
+The Commuter,2018,13,6.3,0.56,Jaume Collet-Serra,"Action,Mystery,Thriller","China,France,United States","English,Spanish",105
+Dirty Wars,2013,,7.5,0.85,Rick Rowley,"Documentary,Crime,Mystery,News,War",United States,"English,Pushto,Somali,Dari,Arabic",87
+Soul Food,1997,18,7,0.81,George Tillman Jr.,"Comedy,Drama",United States,English,115
+Sidewalls,2011,13,7.5,0.67,Gustavo Taretto,"Comedy,Drama","Argentina,Spain,Germany","Spanish,French,English,Italian,German",95
+Miss Stevens,2016,,6.6,0.91,Julia Hart,"Comedy,Drama",United States,English,86
+Footloose,2011,13,5.9,0.69,Craig Brewer,"Comedy,Drama,Music,Romance",United States,English,113
+Charlotte's Web,1973,0,6.9,0.76,Gary Winick,"Comedy,Family,Fantasy","United States,Germany,Australia",English,97
+Shirley Valentine,1989,18,7.2,0.73,Lewis Gilbert,"Comedy,Drama,Romance","United Kingdom,United States",English,108
+Drinking Buddies,2013,18,6.1,0.83,Joe Swanberg,"Comedy,Drama,Romance",United States,English,90
+The Keeper of Lost Causes,2013,,7.2,0.70,Mikkel Nørgaard,"Crime,Mystery,Thriller","Denmark,Germany,Sweden,Norway","Danish,Swedish,Arabic",96
+Sea of Shadows,2019,13,7.2,0.94,"Richard Ladkani,Sean Bogle,Matthew Podolsky","Documentary,Crime,History","Austria,Australia,Germany,United States","English,Spanish",104
+Oh Lucy!,2017,,6.8,0.98,Atsuko Hirayanagi,"Comedy,Drama","Japan,United States","English,Japanese",95
+The Spy Who Dumped Me,2018,18,6,0.49,Susanna Fogel,"Action,Adventure,Comedy","Canada,United States,Hungary","English,Russian,French,Lithuanian,German",117
+Skate Kitchen,2018,18,6.8,0.89,Crystal Moselle,Drama,"United States,United Kingdom,Brazil","English,Spanish",106
+Experimenter,2015,13,6.6,0.85,Michael Almereyda,"Biography,Drama,History",United States,English,98
+What They Had,2018,18,6.6,0.87,Elizabeth Chomko,Drama,United States,English,101
+Burn,2012,,7.5,1.00,Mike Gan,Thriller,United States,English,88
+Margarita with a Straw,2015,13,7.2,0.86,"Shonali Bose,Nilesh Maniyar",Drama,India,"Hindi,English",100
+Odd Thomas,2013,13,6.8,0.38,Stephen Sommers,"Comedy,Fantasy,Horror,Mystery,Romance,Thriller","United States,United Kingdom",English,100
+Every Day,2018,13,6.4,0.63,Michael Sucsy,"Drama,Fantasy,Romance","Canada,United Kingdom,United States",English,97
+Nothing Like a Dame,2018,,7.3,0.99,Roger Michell,Documentary,United Kingdom,English,84
+Brian Banks,2019,13,7.1,0.61,Tom Shadyac,"Biography,Drama,Sport",United States,English,99
+It's a Disaster,2013,18,6.4,0.79,Todd Berger,"Comedy,Drama",United States,English,88
+The Little Death,2014,,7.1,0.61,Josh Lawson,"Comedy,Drama,Romance",Australia,"English,Australian Sign Language",96
+Becoming Bond,2017,18,7.5,0.81,Josh Greenbaum,"Documentary,Biography,Comedy,History",United States,English,95
+After the Screaming Stops,2018,18,7.1,1.00,"Joe Pearlman,David Soutar","Documentary,Music",United Kingdom,English,98
+Slums of Beverly Hills,1998,18,6.6,0.80,Tamara Jenkins,"Comedy,Drama",United States,English,91
+Lords of Chaos,2019,18,6.5,0.74,Jonas Åkerlund,"Biography,Drama,Horror,Music,Thriller","United Kingdom,Sweden,Norway",English,118
+The Frozen Ground,2013,18,6.4,0.61,Scott Walker,"Crime,Drama,Thriller",United States,"English,French",105
+Paranoid Park,2007,18,6.7,0.76,Gus Van Sant,"Crime,Drama,Mystery","France,United States",English,85
+The Hunchback of Notre Dame,1923,,7.3,0.91,"Gary Trousdale,Kirk Wise","Animation,Drama,Family,Musical,Romance","United States,France","English,Latin",91
+Support the Girls,2018,18,6.4,0.91,Andrew Bujalski,"Comedy,Drama",United States,English,93
+The China Hustle,2018,18,7.2,0.77,Jed Rothstein,Documentary,United States,English,82
+Paranormal Activity 3,2011,18,5.8,0.67,"Henry Joost,Ariel Schulman","Horror,Mystery,Thriller",United States,English,83
+Death Wish,2018,18,6.4,0.18,Eli Roth,"Action,Crime,Drama,Thriller","United States,Canada","English,Spanish",107
+Cold Case Hammarskjöld,2019,,7.6,0.83,Mads Brügger,"Documentary,Animation,History","Denmark,Norway,Sweden,Belgium","English,French,Swedish,Bemba,Danish",128
+Anna and the Apocalypse,2017,18,6,0.77,John McPhail,"Comedy,Horror,Musical",United Kingdom,English,93
+Somm,2013,,7,0.79,Jason Wise,Documentary,United States,"English,Italian,German,French",94
+"Love, Gilda",2018,,7.4,0.89,Lisa D'Apolito,Documentary,"Canada,United States","English,French",88
+Star Trek: Insurrection,1998,7,6.4,0.55,Jonathan Frakes,"Action,Adventure,Sci-Fi,Thriller",United States,English,103
+Bad Company,1972,7,7,0.92,Wes Craven,"Horror,Thriller",United States,English,84
+Dior and I,2015,18,7.3,0.84,Frédéric Tcheng,Documentary,France,"French,English,Italian",90
+"Where'd You Go, Bernadette",2019,13,6.5,0.49,Richard Linklater,"Comedy,Drama",United States,English,109
+Gorky Park,1983,18,6.8,0.75,Michael Apted,"Crime,Drama,Mystery,Thriller",United States,English,128
+Beach Rats,2017,18,6.4,0.85,Eliza Hittman,Drama,United States,English,98
+Manderlay,2005,,7.3,0.50,Lars von Trier,Drama,"Denmark,Sweden,Netherlands,France,Germany,United Kingdom,Italy,United States",English,139
+High Strung,2016,7,6.4,0.75,Michael Damian,"Drama,Music,Romance","Romania,United States",English,96
+The Last Days,2013,,6.1,0.89,"David Pastor,Àlex Pastor","Horror,Sci-Fi,Thriller","Spain,France","Spanish,Catalan",100
+Free Willy,1993,7,6,0.58,Simon Wincer,"Adventure,Drama,Family","United States,France,Mexico",English,112
+First Girl I Loved,2016,,6.1,0.89,Kerem Sanga,"Drama,Romance",United States,"English,Spanish",90
+Man on a Ledge,2012,13,6.6,0.32,Asger Leth,"Action,Adventure,Crime,Thriller",United States,"English,Spanish",102
+Barking Dogs Never Bite,2000,,7,0.67,Bong Joon Ho,Comedy,South Korea,Korean,110
+Destroyer,2018,18,6.2,0.74,Karyn Kusama,"Action,Crime,Drama,Mystery,Thriller",United States,English,121
+Meek's Cutoff,2010,7,6.5,0.86,Kelly Reichardt,"Drama,Western",United States,English,104
+No One Knows About Persian Cats,2009,,7.1,0.95,Bahman Ghobadi,"Drama,Music",Iran,Persian,106
+Villains,2019,18,6.2,0.84,"Dan Berk,Robert Olsen","Comedy,Drama,Horror,Thriller",United States,English,90
+The Limehouse Golem,2016,,6.3,0.74,Juan Carlos Medina,"Crime,Mystery,Thriller",United Kingdom,"Yiddish,English,Irish,Chinese,Hebrew",109
+Walking Tall,1973,18,7,0.75,Kevin Bray,"Action,Crime",United States,English,86
+Tragedy Girls,2017,18,6,0.82,Tyler MacIntyre,"Comedy,Crime,Horror",United States,English,98
+Pet Sematary,2019,18,5.7,0.58,"Kevin Kölsch,Dennis Widmyer","Horror,Mystery,Thriller","United States,Canada",English,101
+The Overnight,2015,18,6.1,0.83,Patrick Brice,"Comedy,Mystery",United States,"English,French",79
+Star Trek: The Motion Picture,1979,7,6.4,0.42,Robert Wise,"Adventure,Mystery,Sci-Fi",United States,"English,Klingon",132
+Crime + Punishment,2018,,7.4,0.92,Rob Schmidt,"Drama,Thriller",United States,English,100
+Vincere,2009,,6.9,0.92,Marco Bellocchio,"Biography,Drama,Romance","Italy,France","Italian,German",128
+Southbound,2015,18,5.9,0.80,"Roxanne Benjamin,Matt Bettinelli-Olpin,David Bruckner,Tyler Gillett,Patrick Horvath,Justin Martinez,Radio Silence,Chad Villella","Fantasy,Horror,Thriller",United States,English,89
+The Quake,2018,13,6.2,0.84,John Andreas Andersen,"Action,Drama,Thriller",Norway,Norwegian,106
+American Ultra,2015,18,6.1,0.43,Nima Nourizadeh,"Action,Comedy","United States,Switzerland","English,Mandarin",96
+Hellbound: Hellraiser II,1988,18,6.5,0.52,Tony Randel,"Horror,Thriller",United Kingdom,English,97
+The Hero,2017,18,6.5,0.78,Brett Haley,"Drama,Romance,Western",United States,English,96
+Tom of Finland,2017,,6.8,0.83,Dome Karukoski,"Biography,Drama","Finland,Sweden,Denmark,Germany,Iceland,United States","Finnish,English,German",117
+Fyre Fraud,2019,,6.8,0.76,"Jenner Furst,Julia Willoughby Nason",Documentary,United States,English,96
+David Crosby: Remember My Name,2019,18,7.2,0.91,A.J. Eaton,"Documentary,Music",United States,"English,Italian",95
+Gilbert,2017,18,7.4,0.95,Neil Berkeley,"Documentary,Biography,Comedy",United States,English,94
+Framing John DeLorean,2019,,6.4,0.89,"Don Argott,Sheena M. Joyce","Documentary,Biography,Drama",United States,English,109
+Marrowbone,2017,18,6.6,0.47,Sergio G. Sánchez,"Drama,Horror,Mystery,Thriller","Spain,United States",English,110
+Kusama : Infinity,2018,,7.2,0.93,Heather Lenz,Documentary,United States,"English,Japanese",76
+Please Stand By,2018,13,6.7,0.58,,"Fantasy,Horror,Sci-Fi,Drama,Mystery,Thriller",United States,English,51
+Those People,2015,,6.5,0.80,Joey Kuhn,"Drama,Romance",United States,English,89
+The Time That Remains,2009,13,7.1,0.84,Elia Suleiman,"Drama,History","United Kingdom,Italy,Belgium,France,Palestine,Israel","Arabic,Hebrew,English",109
+The Mexican,2001,18,6.1,0.54,Gore Verbinski,"Adventure,Comedy,Crime,Romance","United States,Mexico","English,Spanish",123
+Paranormal Activity 2,2010,18,5.6,0.59,Tod Williams,Horror,United States,"English,Spanish",91
+Red Dog: True Blue,2016,,6.4,1.00,Kriv Stenders,"Comedy,Drama,Family,Romance",Australia,English,88
+Assassination Nation,2018,18,5.9,0.73,Sam Levinson,"Action,Comedy,Crime,Drama,Horror,Thriller",United States,"English,Italian",108
+Friends with Kids,2012,18,6.1,0.67,Jennifer Westfeldt,"Comedy,Drama,Romance",United States,English,107
+Diana Vreeland: The Eye Has to Travel,2012,13,7.5,0.94,"Lisa Immordino Vreeland,Bent-Jorgen Perlmutt,Frédéric Tcheng","Documentary,Biography",United States,"English,French,Italian",86
+I Remember You,2017,18,6.1,0.86,Óskar Thór Axelsson,"Drama,Horror,Mystery,Thriller",Iceland,Icelandic,105
+Forever My Girl,2018,7,6.7,0.24,Bethany Ashton Wolf,"Drama,Music,Romance",United States,English,108
+The Furies,1950,,7.3,0.83,Tony D'Aquino,"Action,Horror,Thriller","Australia,United Arab Emirates",English,82
+Meeting Gorbachev,2019,,7.2,0.88,"Werner Herzog,André Singer","Documentary,Biography,History","United Kingdom,Germany,United States","English,Russian,German,Polish",90
+Welcome to the Rileys,2010,18,7,0.54,Jake Scott,Drama,"United Kingdom,United States",English,110
+Hector and the Search for Happiness,2014,18,7,0.37,Peter Chelsom,"Adventure,Comedy,Drama","Germany,Canada,United Kingdom,South Africa,United States","English,French,German",120
+Bad Reputation,2018,18,7.3,0.79,Jim Hemphill,"Drama,Horror,Thriller",United States,English,90
+Waiting to Exhale,1995,18,5.9,0.56,Forest Whitaker,"Comedy,Drama,Romance",United States,English,124
+Pyewacket,2017,,5.8,0.82,Adam MacDonald,"Drama,Horror,Mystery,Thriller",Canada,English,90
+The Swan Princess,1994,0,6.4,0.50,Richard Rich,"Animation,Comedy,Family,Fantasy,Musical,Romance",United States,English,93
+Grabbers,2012,,6.3,0.72,Jon Wright,"Action,Adventure,Comedy,Horror,Sci-Fi,Thriller","Ireland,United Kingdom",English,94
+Aniara,2019,18,6.2,0.70,"Pella Kagerman,Hugo Lilja","Drama,Sci-Fi","Sweden,Denmark","Swedish,Spanish,English",106
+The Housemaid,2010,,6.4,0.70,Sang-soo Im,"Drama,Thriller",South Korea,"Korean,English",107
+Little Woods,2018,18,6.1,0.96,Nia DaCosta,"Crime,Drama,Western",United States,English,105
+"Elvira, Mistress of the Dark",1988,13,6.6,0.47,,Talk-Show,,,
+In Search of Greatness,2018,13,6.6,0.92,Gabe Polsky,Documentary,United States,English,77
+Food Evolution,2017,7,7,1.00,Scott Hamilton Kennedy,Documentary,United States,English,92
+Sinbad: Legend of the Seven Seas,2003,7,6.7,0.45,"Patrick Gilmore,Tim Johnson","Animation,Adventure,Family,Fantasy",United States,"English,Cantonese,Italian",86
+The Den,2013,18,6,0.76,Zachary Donohue,"Horror,Mystery,Thriller",United States,English,81
+Wolf Warrior 2,2017,,6,0.69,Jing Wu,"Action,Drama,Thriller,War",China,"Mandarin,English,French",123
+Dumb: The Story of Big Brother Magazine,2017,18,7.2,1.00,Patrick O'Dell,Documentary,United States,English,79
+Goodbye First Love,2011,,6.6,0.83,Mia Hansen-Løve,"Drama,Romance","France,Germany","French,German,Danish,English",110
+The 33,2015,13,6.9,0.48,Patricia Riggen,"Biography,Drama,History","Chile,Colombia,Spain,United States","English,Spanish",127
+Mike Wallace Is Here,2019,13,7.2,0.94,Avi Belkin,"Documentary,Biography",United States,"English,Russian,Persian",90
+March of the Penguins 2,2017,7,6.6,1.00,Luc Jacquet,"Documentary,Family",France,"English,French",85
+Teen Spirit,2019,13,6.1,0.71,Max Minghella,"Drama,Music","United Kingdom,United States","English,Polish",93
+Seymour: An Introduction,2015,7,7.4,1.00,Ethan Hawke,"Documentary,Biography,Music",United States,English,84
+The Man Who Killed Hitler and Then the Bigfoot,2019,18,5.6,0.76,Robert D. Krzykowski,"Adventure,Drama,Sci-Fi,War",United States,"English,Russian",98
+The Childhood of a Leader,2016,,6.1,0.89,Brady Corbet,Drama,"United States,Canada,United Kingdom,France,Hungary,Belgium","English,French,German",115
+The Standoff at Sparrow Creek,2019,,6.2,0.77,Henry Dunham,"Crime,Drama,Thriller",United States,English,88
+A Very Sordid Wedding,2017,18,5.3,0.86,Del Shores,Comedy,United States,English,109
+Toni Morrison: The Pieces I Am,2019,13,7.1,0.97,Timothy Greenfield-Sanders,Documentary,United States,English,120
+Dina,2017,,6.8,0.98,,"Adventure,Drama,Fantasy,Sci-Fi","United States,Canada,Germany,Italy","English,Italian",265
+Dog Days,2018,7,6.2,0.63,Ken Marino,"Comedy,Drama,Romance",United States,English,113
+Monsters and Men,2018,18,5.7,0.86,Reinaldo Marcus Green,"Crime,Drama,Thriller",United States,English,96
+The Canal,2014,,5.8,0.71,Ivan Kavanagh,"Horror,Mystery,Thriller","Ireland,United Kingdom",English,92
+Leap Year,2010,7,6.5,0.23,Anand Tucker,"Comedy,Romance","United States,Ireland","English,Ukrainian",100
+Raise Hell: The Life & Times of Molly Ivins,2019,,7.6,0.94,Janice Engel,Documentary,United States,English,93
+Under the Tree,2017,,6.8,0.85,Hafsteinn Gunnar Sigurðsson,"Comedy,Drama,Mystery,Thriller","Iceland,Poland,Denmark,Germany,France",Icelandic,89
+The League of Extraordinary Gentlemen,2003,13,5.8,0.17,Stephen Norrington,"Action,Adventure,Fantasy,Sci-Fi","United States,Germany,Czech Republic,United Kingdom","English,German,Italian",110
+Hello I Must Be Going,2012,18,6.2,0.75,Courteney Cox,"Comedy,Drama",United States,English,95
+Two Trains Runnin',2016,,7.4,1.00,Sam Pollard,"Documentary,Music",United States,English,80
+The Jewel of the Nile,1985,7,6.1,0.50,Lewis Teague,"Action,Adventure,Comedy,Romance",United States,"English,Arabic",106
+Middle Men,2009,18,6.8,0.40,George Gallo,"Comedy,Crime,Drama",United States,English,105
+Before I Go to Sleep,2014,18,6.3,0.37,Rowan Joffe,"Drama,Horror,Mystery,Thriller","United Kingdom,United States,France,Sweden",English,92
+Eating Animals,2018,,7.3,0.91,Christopher Dillon Quinn,Documentary,"United Kingdom,India,Germany,China,United States",English,94
+Mom and Dad,2018,18,5.5,0.75,Brian Taylor,"Comedy,Horror,Thriller","United States,United Kingdom",English,86
+Touched with Fire,2016,18,6.2,0.68,Paul Dalio,"Drama,Romance",United States,English,106
+Cunningham,2019,7,6.4,0.88,Alla Kovgan,"Documentary,Biography,Music","Germany,France,United States",English,93
+Starfish,2018,,5.3,0.90,A.T. White,"Drama,Horror,Sci-Fi",United States,English,99
+The Yellow Handkerchief,2009,13,6.7,0.66,Udayan Prasad,"Drama,Romance",United States,English,102
+The First Monday in May,2016,13,7.2,0.78,Andrew Rossi,Documentary,United States,English,90
+The Miracle Season,2018,7,6.5,0.51,Sean McNamara,"Drama,Sport",United States,English,101
+Burden,2016,,6.9,0.97,Andrew Heckler,Drama,United States,English,117
+Downsizing,2017,18,5.7,0.47,Alexander Payne,"Drama,Sci-Fi","United States,Norway","English,Spanish,Norwegian,French,Korean,Greek,Vietnamese",135
+Lowlife,2017,,6.2,0.91,James Gray,"Drama,Romance",United States,"English,Polish,Latin",120
+The Blue Room,2014,18,6.3,0.90,Mathieu Amalric,"Crime,Romance,Thriller",France,French,76
+The Chumscrubber,2005,18,6.9,0.37,Arie Posin,"Comedy,Drama","United States,Germany",English,108
+Pledge,2019,,5.4,0.76,Sean Penn,"Crime,Drama,Mystery,Thriller",United States,English,124
+Universal Soldier,1992,18,6,0.29,Roland Emmerich,"Action,Sci-Fi",United States,English,102
+Non-Fiction,2018,18,6.5,0.87,Olivier Assayas,"Comedy,Drama,Romance",France,French,108
+Larger than Life: The Kevyn Aucoin Story,2017,,8.3,0.90,Tiffany Bartok,Documentary,United States,English,102
+The Bookshop,2017,7,6.5,0.57,Isabel Coixet,Drama,"United Kingdom,Spain,Germany",English,113
+Baskın,2015,,5.8,0.79,Gareth Evans,"Action,Thriller","Indonesia,France,United States",Indonesian,101
+A Life Less Ordinary,1997,18,6.4,0.39,Danny Boyle,"Comedy,Crime,Fantasy,Romance","United Kingdom,United States",English,103
+Girls Just Want to Have Fun,1985,7,6,0.38,Alan Metter,"Comedy,Music,Romance",United States,English,90
+The Ant Bully,2006,7,5.8,0.62,John A. Davis,"Animation,Adventure,Comedy,Family,Fantasy",United States,English,88
+Overboard,2018,13,6,0.24,Garry Marshall,"Comedy,Romance",United States,"English,French,Portuguese",112
+Henry Gamble's Birthday Party,2015,18,6.1,0.83,Stephen Cone,Drama,United States,English,87
+"Nico, 1988",2017,18,6.7,0.92,Susanna Nicchiarelli,"Biography,Drama,Music","Italy,Belgium","English,German,Czech,French",93
+Diane,2019,,6.7,0.88,Kent Jones,Drama,United States,English,95
+Joshy,2016,18,5.9,0.81,Jeff Baena,Comedy,United States,English,93
+Leaving,2009,,6.2,0.68,Catherine Corsini,"Crime,Drama,Romance",France,"French,Catalan,English",85
+Finding Your Feet,2017,13,6.7,0.70,Richard Loncraine,"Comedy,Drama,Music,Romance",United Kingdom,"English,Italian,French,Welsh",111
+The Princess of Montpensier,2010,,6.4,0.85,Bertrand Tavernier,"Action,Drama,History,Romance,War","France,Germany",French,139
+Citizen Jane: Battle for the City,2017,,6.9,0.95,Matt Tyrnauer,"Documentary,Biography,History",United States,English,92
+High-Rise,2015,18,5.6,0.60,Ben Wheatley,"Drama,Sci-Fi","United Kingdom,Ireland,Belgium",English,119
+Unlocked,2017,18,6.2,0.26,Michael Apted,"Action,Drama,Mystery,Thriller","Czech Republic,Switzerland,United Kingdom,United States,France","English,Arabic,German",98
+Far From The Tree,2017,,7.5,0.90,"Rachel Dretzin,Jamila Ephron",Documentary,United States,English,93
+Freak Show,2018,,6.7,0.54,"Tom Stern,Alex Winter","Comedy,Sci-Fi",United States,English,86
+C.S.A.: The Confederate States of America,2005,13,6.4,0.80,Kevin Willmott,"Comedy,Drama,War",United States,English,89
+AWOL,2017,,5.5,0.93,Danny Mooney,"Drama,Romance,War",United States,English,100
+Haze,2017,18,5.9,0.88,David Burkman,"Drama,Thriller",United States,English,106
+Maze,2017,,5.9,0.92,Priyadarshan,"Comedy,Horror,Mystery,Thriller",India,"Hindi,Bengali",159
+Legion of Brothers,2017,16,5.7,1.00,Greg Barker,"Documentary,War",United States,English,79
+Mister America,2019,18,6.4,0.66,Eric Notarnicola,Comedy,United States,English,89
+The Archer,2017,,5.1,0.80,Valerie Weiss,"Drama,Thriller",United States,English,86
+Tank Girl,1995,18,5.3,0.40,Rachel Talalay,"Action,Comedy,Sci-Fi","United States,United Kingdom",English,104
+Little Joe,2019,,5.9,0.68,Jessica Hausner,"Drama,Horror,Mystery,Sci-Fi","United Kingdom,Austria,Germany",English,105
+Scotch: A Golden Dream,2019,,7.5,0.75,Andrew Peat,Documentary,"United Kingdom,Taiwan",English,89
+The Prodigy,2019,18,5.8,0.42,Nicholas McCarthy,"Horror,Thriller","United States,Canada",English,92
+Divide and Conquer: The Story of Roger Ailes,2018,,7,0.90,Alexis Bloom,Documentary,United States,English,107
+This Is Not Berlin,2019,18,6.6,0.82,Hari Sama,Drama,Mexico,Spanish,115
+The Last Word,2017,18,6.6,0.40,David Mackenzie,"Drama,Romance,Sci-Fi","United Kingdom,Sweden,Denmark,Ireland","English,Sign Languages",92
+The Hustle,2019,13,5.4,0.14,Chris Addison,"Comedy,Crime",United States,"English,German,Dutch,Danish,French,American Sign Language",93
+The Unicorn,2019,,5.1,0.91,,"Comedy,Drama,Family",United States,English,22
+Whose Streets?,2017,18,5,0.98,"Sabaah Folayan,Damon Davis",Documentary,United States,English,90
+Vox Lux,2018,18,5.9,0.61,Brady Corbet,"Drama,Music",United States,"English,Croatian,Chinese",114
+Take Every Wave: The Life of Laird Hamilton,2018,7,7.3,0.76,Rory Kennedy,"Documentary,Sport",United States,English,118
+Leaning Into the Wind: Andy Goldsworthy,2018,7,6.7,0.98,Thomas Riedelsheimer,Documentary,"United Kingdom,Germany","English,Portuguese,French",97
+The Amazing Johnathan Documentary,2019,,6.6,0.80,Benjamin Berman,Documentary,United States,English,91
+Unmade Beds,2009,,6.6,0.76,Alexis Dos Santos,"Comedy,Drama",United Kingdom,"English,French,Spanish,Italian",97
+Case 39,2009,18,6.2,0.21,Christian Alvart,"Horror,Mystery,Thriller","United States,Canada",English,109
+The X Files: I Want to Believe,2008,13,5.9,0.31,Chris Carter,"Crime,Drama,Horror,Mystery,Sci-Fi,Thriller","United States,Canada","English,Russian,Czech",104
+The Gospel According to André,2018,13,6.3,0.86,Kate Novack,Documentary,United States,English,93
+A Good Old Fashioned Orgy,2011,18,6.1,0.35,"Alex Gregory,Peter Huyck","Comedy,Romance",United States,English,95
+Children of the Corn,1984,18,5.7,0.35,Fritz Kiersch,"Horror,Thriller",United States,English,92
+The Osiris Child,2016,,5.6,0.65,Shane Abbess,"Action,Adventure,Drama,Fantasy,Horror,Sci-Fi,Thriller",Australia,English,99
+Friday the 13th: The Final Chapter,1984,18,6,0.20,Joseph Zito,"Horror,Thriller",United States,English,91
+Ballet 422,2014,7,6.2,0.87,Jody Lee Lipes,"Documentary,Music,Sport",United States,English,75
+Shelley,2016,,5.2,0.92,Ali Abbasi,"Drama,Horror","Denmark,Sweden","Danish,English,Norwegian,Swedish,Romanian",92
+The Escape,2018,,5.8,0.77,Dominic Savage,Drama,United Kingdom,English,101
+Where Hands Touch,2018,13,6.2,0.40,Amma Asante,"Drama,Romance,War",United Kingdom,English,122
+The Myth of the American Sleepover,2011,,6.3,0.81,David Robert Mitchell,"Comedy,Drama,Romance",United States,English,96
+Jawline,2019,,5.9,0.96,Liza Mandelup,Documentary,United States,English,99
+Anchor and Hope,2017,,6.4,0.75,Carlos Marques-Marcet,"Comedy,Drama,Romance","Spain,United Kingdom","English,Spanish",113
+Antiviral,2012,,5.7,0.66,Brandon Cronenberg,"Horror,Mystery,Sci-Fi,Thriller","Canada,France",English,108
+Flower,2017,18,6,0.50,Max Winkler,"Comedy,Drama",United States,English,90
+All Square,2018,18,5.8,0.91,John Hyams,Drama,United States,English,93
+The Day Shall Come,2019,,5.8,0.65,Christopher Morris,"Comedy,Crime","United Kingdom,United States",English,87
+Depraved,2019,,5.3,0.87,Larry Fessenden,"Drama,Horror,Thriller",United States,English,114
+Wonder Park,2019,7,5.8,0.34,Dylan Brown,"Animation,Adventure,Comedy,Family,Fantasy","Spain,United States",English,85
+Go Tigers!,2001,18,7.2,0.85,Kenneth A. Carlson,"Documentary,Sport",United States,English,103
+Already Tomorrow in Hong Kong,2016,,6.5,0.74,Emily Ting,"Comedy,Romance","United States,Hong Kong",English,78
+We Are What We Are,2010,,5.7,0.72,Jim Mickle,"Drama,Horror,Thriller","United States,France",English,105
+Hungry Hearts,2015,,6.4,0.63,Saverio Costanzo,"Drama,Romance,Thriller",Italy,English,109
+The Tall Man,2012,18,5.9,0.41,Pascal Laugier,"Crime,Drama,Horror,Mystery,Thriller","United States,Canada,France",English,106
+Scenic Route,2013,18,6.5,0.67,"Kevin Goetz,Michael Goetz","Drama,Thriller",United States,English,82
+Ms. Purple,2019,,6,0.86,Justin Chon,Drama,United States,English,87
+What Men Want,2019,18,5.2,0.42,Adam Shankman,"Comedy,Fantasy,Romance",United States,"English,Mandarin",117
+A Crooked Somebody,2018,18,6.2,0.80,Trevor White,"Crime,Drama,Thriller",United States,English,102
+The Kid,2019,18,5.9,0.45,Vincent D'Onofrio,"Biography,Drama,Western",United States,English,100
+Do I Sound Gay?,2015,,5.7,0.81,David Thorpe,Documentary,United States,"English,French",77
+The Beach Bum,2019,18,5.5,0.56,Harmony Korine,Comedy,"Switzerland,United Kingdom,France,United States","English,Spanish",95
+The Whistle Blower,1986,7,6.2,0.88,Simon Langton,Thriller,United Kingdom,"English,Russian",100
+Road Games,2015,,5.4,0.84,Richard Franklin,"Horror,Mystery,Thriller",Australia,English,101
+Let the Sunshine In,2017,,6,0.86,Claire Denis,"Comedy,Drama,Romance","France,Belgium",French,94
+Wild Card,2015,18,5.6,0.32,Simon West,"Action,Crime,Drama,Thriller",United States,English,92
+Æon Flux,2005,13,5.4,0.09,Karyn Kusama,"Action,Adventure,Sci-Fi,Thriller","United States,Germany,Brazil,Italy",English,93
+Brick Mansions,2014,13,5.7,0.25,Camille Delamarre,"Action,Crime,Thriller","France,Canada,United States,Spain","English,Chinese",90
+Planet 51,2009,7,6,0.22,"Jorge Blanco,Javier Abad,Marcos Martínez","Animation,Adventure,Comedy,Family,Sci-Fi","Spain,United Kingdom,United States","English,Spanish",91
+Padre nuestro,2007,18,6.9,0.79,Aisling Walsh,"Drama,History","Ireland,United Kingdom,Denmark,Spain",English,94
+Run the Race,2019,7,5.9,0.40,Chris Dowling,"Drama,Sport",United States,English,101
+Ramen Heads,2017,,7.1,0.63,Koki Shigeno,Documentary,Japan,Japanese,93
+Beyond the Gates,2016,13,5.2,0.83,Jackson Stewart,"Adventure,Horror",United States,English,84
+House of D,2004,13,7,0.10,David Duchovny,"Comedy,Drama",United States,"English,French",97
+The Devil's Doorway,2018,,5.2,0.78,Aislinn Clarke,Horror,"Ireland,United Kingdom",English,76
+Changeland,2019,18,5.7,0.63,Seth Green,"Comedy,Drama",United States,"English,Thai",86
+The Year of Spectacular Men,2018,,5.6,0.67,Lea Thompson,"Comedy,Drama,Romance",United States,English,102
+In Paris,2006,,6.5,0.60,Christophe Honoré,"Drama,Romance","France,Portugal",French,92
+Trigun: Badlands Rumble,2010,16,7.5,,Satoshi Nishimura,"Animation,Action,Sci-Fi,Western",Japan,Japanese,90
+Digging for Fire,2015,18,5.8,0.66,Joe Swanberg,"Comedy,Drama",United States,"English,Spanish",85
+Before We Vanish,2017,18,6,0.80,Kiyoshi Kurosawa,"Drama,Sci-Fi",Japan,Japanese,129
+Here to be Heard: The Story of the Slits,2018,13,7.1,0.67,William E. Badgley,"Documentary,Music",,English,86
+The Lorax,1972,7,8,,"Chris Renaud,Kyle Balda","Animation,Adventure,Comedy,Drama,Family,Fantasy,Musical","United States,France",English,86
+Stella's Last Weekend,2018,,6.4,0.65,Polly Draper,"Comedy,Drama",United States,English,102
+Kiki,2017,,6.5,0.81,Paco León,"Comedy,Romance",Spain,"Spanish,English,Spanish Sign Language",102
+Midnighters,2018,,5.4,0.81,Julius Ramsay,"Crime,Drama,Horror,Mystery,Thriller",United States,English,94
+The Brink,2019,18,6.1,0.84,,Comedy,United States,English,30
+Damsel,2018,18,5.5,0.67,"David Zellner,Nathan Zellner","Adventure,Comedy,Crime,Drama,Romance,Western",United States,English,113
+Killing Them Safely,2015,,6.5,0.91,Nick Berardini,"Documentary,Drama","Canada,United States",English,100
+Conan the Barbarian,2011,18,5.2,0.25,John Milius,"Action,Adventure,Fantasy","United States,Spain,Mexico",English,129
+Family Law,2006,,6.9,0.73,,"Crime,Drama,Romance",United States,English,60
+Cantinflas,2014,7,6.5,0.45,Sebastian del Amo,"Biography,Comedy,Drama,Romance",Mexico,"Spanish,English",102
+Madea's Big Happy Family,2011,13,4.7,0.37,Tyler Perry,"Comedy,Drama",United States,English,106
+What We Become,2015,,5.6,0.78,Bo Mikkelsen,"Horror,Thriller",Denmark,Danish,85
+Free Birds,2013,7,5.9,0.19,Jimmy Hayward,"Animation,Adventure,Comedy,Family,Sci-Fi",United States,English,91
+Righteous Kill,2008,18,6,0.18,Jon Avnet,"Crime,Drama,Mystery,Thriller",United States,"English,Spanish,Russian",101
+I Still See You,2018,13,5.8,0.08,Scott Speer,"Fantasy,Horror,Sci-Fi,Thriller",United States,English,98
+Men with Brooms,2002,18,5.7,0.55,Paul Gross,"Comedy,Drama,Romance,Sport",Canada,"English,American Sign Language,German",102
+The Girl King,2015,,5.9,0.42,Mika Kaurismäki,"Biography,Drama,History,Romance","Finland,Germany,Canada,Sweden,France","English,French,German,Latin",106
+Foxfire,1996,18,6.2,0.27,Annette Haywood-Carter,Drama,United States,English,102
+WolfCop,2014,,5.5,0.65,Lowell Dean,"Comedy,Horror",Canada,English,79
+Star Trek V: The Final Frontier,1989,7,5.5,0.22,William Shatner,"Action,Adventure,Fantasy,Sci-Fi,Thriller",United States,"English,Klingon",107
+Pilgrimage,2017,,5.8,0.69,Brendan Muldowney,"Action,Drama,History","Ireland,Belgium,United States","English,Irish,French,Latin",96
+UglyDolls,2019,7,4.9,0.27,Kelly Asbury,"Animation,Adventure,Comedy,Family,Fantasy,Musical","China,Canada,United States,Thailand",English,87
+Vita & Virginia,2019,,5.7,0.41,Chanya Button,"Biography,Drama,Romance","Ireland,United Kingdom",English,110
+Dementia,2015,,5.1,0.77,Francis Ford Coppola,"Horror,Thriller","United States,Ireland",English,75
+Acrimony,2018,18,5.8,0.17,Tyler Perry,"Drama,Romance,Thriller",United States,English,120
+Afro Samurai: Resurrection,2009,18,7.2,,Fuminori Kizaki,"Animation,Action,Adventure,Drama,Fantasy,Sci-Fi","United States,Japan",English,97
+Friday the 13th Part III,1982,18,5.7,0.12,Steve Miner,"Horror,Thriller",United States,English,95
+Fun in Acapulco,1963,7,5.9,0.57,Richard Thorpe,"Comedy,Music",United States,English,97
+Mad to Be Normal,2017,,6,0.64,Robert Mullan,"Biography,Drama,History",United Kingdom,English,106
+The Last Race,2018,,5.9,0.93,"Stephen Shin,Michael Parker","Drama,History,Sport","China,Hong Kong,United States","English,Mandarin,Japanese",108
+Undrafted,2016,,6.4,0.25,Joseph Mazzello,"Comedy,Drama,Sport",United States,English,90
+2:22,2017,13,5.8,0.22,John Suits,Sci-Fi,United States,"English,French",91
+The Cleanse,2018,18,5.3,0.83,Bobby Miller,"Comedy,Drama,Fantasy,Horror","Canada,United States",English,81
+Take My Nose... Please!,2017,,6.8,0.83,Joan Kron,"Documentary,Comedy,History","United States,Mexico",English,92
+10x10,2018,18,5,0.67,Suzi Ewing,Thriller,United Kingdom,English,88
+Harry Benson: Shoot First,2016,,7.3,0.85,"Justin Bare,Matthew Miele",Documentary,United States,English,87
+The Reagan Show,2017,7,6.4,0.79,"Sierra Pettengill,Pacho Velez",Documentary,United States,English,74
+"Race for Your Life, Charlie Brown",1977,0,7.3,,"Bill Melendez,Phil Roman","Animation,Adventure,Comedy,Family",United States,English,76
+Fairy Tail the Movie: Phoenix Priestess,2012,13,7.1,,Masaya Fujimori,"Animation,Action,Adventure,Comedy,Drama,Fantasy",Japan,Japanese,86
+Tiny Toon Adventures: How I Spent My Vacation,1992,,8,,"Rich Arons,Ken Boyer,Kent Butterworth,Barry Caldwell,Alfred Gimeno,Art Leonardi,Byron Vaughns","Animation,Adventure,Comedy,Family,Fantasy",United States,English,79
+Proxy,2013,,5.7,0.64,Zack Parker,"Drama,Horror,Thriller",United States,English,120
+Welcome to Mercy,2018,,4.9,0.70,Tommy Bertelsen,"Drama,Horror,Mystery,Thriller",United States,"English,Latvian",103
+Permanent,2017,13,5.5,0.44,Colette Burson,Comedy,United States,English,93
+Terminal,2018,,5.4,0.21,Steven Spielberg,"Comedy,Drama,Romance",United States,"English,Bulgarian,Spanish,Russian,Mandarin,German,French",128
+Walking with the Enemy,2014,13,6.4,0.45,Mark Schmidt,"Action,Drama,History,Romance,War","Romania,Hungary,Canada,United States","English,German,Hungarian,Romanian",124
+Crash Pad,2017,18,5.7,0.54,Kevin Tent,Comedy,"Canada,United States",English,91
+Abduction,2011,13,5.1,0.05,John Singleton,"Action,Mystery,Thriller",United States,English,106
+The Big Wedding,2013,18,5.6,0.07,Justin Zackham,"Comedy,Drama,Romance",United States,"English,Spanish,Chinese,Latin",89
+Spinning Man,2018,18,5.6,0.42,Simon Kaijser,"Drama,Mystery,Thriller","Ireland,Sweden,United States",English,100
+Golden Exits,2018,18,5.8,0.67,Alex Ross Perry,Drama,"Greece,United States",English,94
+Madea's Witness Protection,2012,13,4.9,0.19,Tyler Perry,"Comedy,Crime,Drama",United States,English,114
+Playing It Cool,2014,18,6,0.14,Justin Reardon,"Comedy,Romance",United States,"English,Korean",94
+Greener Grass,2019,,6.3,0.80,"Jocelyn DeBoer,Dawn Luebbe",Comedy,United States,English,95
+Errors of the Human Body,2012,,5.3,0.75,Eron Sheean,"Drama,Horror,Mystery,Sci-Fi,Thriller","Germany,United States",English,101
+Spaceship Earth,2020,,6.5,0.89,Matt Wolf,Documentary,United States,,113
+The Quiet One,2019,,6.4,0.67,Oliver Murray,"Documentary,Music",United Kingdom,English,98
+The Pink Panther 2,2009,7,5.6,0.13,Harald Zwart,"Action,Adventure,Comedy,Crime,Family,Mystery",United States,"English,French,Spanish,Italian",92
+Phoenix Forgotten,2017,13,5.3,0.44,Justin Barber,"Horror,Mystery,Sci-Fi,Thriller",United States,English,87
+The Duchess of Langeais,2007,,6.5,0.70,Jacques Rivette,"Drama,Music,Romance","France,Italy","French,Spanish",137
+Texas Chainsaw 3D,2013,18,4.8,0.19,John Luessenhop,"Horror,Thriller",United States,English,92
+Boom for Real: The Late Teenage Years of Jean-Michel Basquiat,2018,,6.5,0.88,Sara Driver,Documentary,United States,English,78
+American Folk,2018,7,6.1,0.76,David Heinz,"Drama,Musical",United States,English,99
+Curvature,2017,,4.8,0.47,Diego Hallivis,"Mystery,Sci-Fi,Thriller",United States,English,90
+The Alchemist Cookbook,2016,18,5.1,0.80,Joel Potrykus,"Comedy,Drama,Horror",United States,English,82
+"I, Frankenstein",2014,13,5.1,0.05,Stuart Beattie,"Action,Fantasy,Sci-Fi","United States,Australia",English,92
+Love After Love,2018,,5.4,0.85,Russell Harbaugh,"Drama,Romance",United States,English,91
+The Houses October Built,2014,,5.2,0.60,Bobby Roe,"Horror,Thriller",United States,English,91
+Free Willy 2: The Adventure Home,1995,7,5.1,0.31,Dwight H. Little,"Adventure,Drama,Family","France,United States,Luxembourg","English,Danish,Malay,Dutch,Indonesian,Finnish,Luxembourgish,French Sign Language",95
+11 Minutes,2015,,5.6,0.72,Jerzy Skolimowski,"Drama,Thriller","Poland,Ireland","Polish,English",81
+Running with the Devil,2019,18,5.4,0.25,Jason Cabell,"Crime,Drama,Thriller","Colombia,United States","English,Spanish",100
+28 Hotel Rooms,2012,,5.8,0.47,Matt Ross,"Drama,Romance",United States,English,82
+Bolden,2019,18,5.6,0.70,Dan Pritzker,Drama,United States,English,108
+The Monkey King 3,2018,,5.5,0.33,Soi Cheang,"Action,Adventure,Family,Fantasy","China,Hong Kong","Mandarin,English",114
+Getting Go: The Go Doc Project,2013,,7,,Cory Krueckeberg,"Drama,Romance",United States,English,91
+Sherlock Gnomes,2018,7,5.2,0.27,John Stevenson,"Animation,Adventure,Comedy,Family,Fantasy,Mystery,Romance","United Kingdom,United States,India,Canada,France,Belgium","English,Mandarin",86
+Batman & Bill,2017,16,8,,"Don Argott,Sheena M. Joyce","Documentary,Animation,Mystery",United States,English,93
+Cruise,2018,18,5.3,0.38,Robert Siegel,"Drama,Romance",United States,English,90
+Distorted,2018,18,4.9,0.18,Rob W. King,"Crime,Mystery,Thriller",Canada,English,86
+The Numbers Station,2013,18,5.6,0.30,Kasper Barfoed,"Action,Thriller","United Kingdom,Belgium,United States",English,89
+In a Relationship,2018,18,5.5,0.60,Sam Boyd,"Comedy,Drama","Mexico,United States",English,92
+The Female Brain,2017,,5.7,0.37,Whitney Cummings,Comedy,United States,English,98
+Rags,2012,0,6.9,,,"Drama,Romance",United States,English,30
+The Gardener,2017,,6.9,0.75,"Scott Jeffrey,Rebecca Matthews",Action,United Kingdom,English,
+100 Streets,2016,,5.7,0.41,Jim O'Hanlon,Drama,United Kingdom,English,93
+Legendary,2010,13,6.2,0.19,Eric Styles,"Action,Adventure,Sci-Fi,Thriller","United Kingdom,China","English,Chinese",92
+And So It Goes,2014,13,5.8,0.18,Rob Reiner,"Comedy,Drama,Romance",United States,English,94
+Chef Flynn,2018,,6.7,0.73,Cameron Yates,Documentary,United States,English,82
+6 Below: Miracle on the Mountain,2017,13,5.7,0.22,Scott Waugh,"Adventure,Biography,Drama,Sport,Thriller",United States,English,98
+Back in Time,2015,,6.3,,Jason Aron,"Documentary,Family,History","United States,Canada,United Kingdom",English,95
+Tamara,2005,18,5.1,0.32,Jeremy Haft,"Drama,Fantasy,Horror,Thriller",Canada,English,98
+Grace Jones: Bloodlight and Bami,2017,7,6.2,0.86,Sophie Fiennes,"Documentary,Biography,Music","Ireland,United Kingdom","English,French",115
+Racer and the Jailbird,2017,18,6.3,0.36,Michaël R. Roskam,"Crime,Drama,Romance","Belgium,France,Netherlands","Dutch,French",130
+Romeo & Juliet,2013,13,5.8,0.24,Carlo Carlei,"Drama,Romance","United Kingdom,Italy,Switzerland","English,Latin",118
+Time Freak,2018,13,5.8,,Andrew Bowler,"Comedy,Drama,Romance,Sci-Fi",United States,English,104
+Who Let the Dogs Out,2019,13,8.2,1.00,Brent Hodge,Documentary,Canada,,70
+The Cage Fighter,2018,,5.8,0.94,Jeff Unay,"Documentary,Action,Drama",United States,English,81
+Hollow in the Land,2017,,5.6,0.57,Scooter Corkle,"Drama,Mystery,Thriller",Canada,English,92
+Fun Size,2012,13,5.4,0.25,Josh Schwartz,"Adventure,Comedy",United States,English,86
+Black Gold,2011,18,6.7,0.11,Jean-Jacques Annaud,"Action,Drama,History,War","France,Italy,Qatar,Tunisia",English,130
+Long Time Coming: A 1955 Baseball Story,2017,,7.4,0.67,Jon Strong,"Documentary,History,Sport",United States,English,87
+A Kind of Murder,2016,18,5.3,0.38,Andy Goddard,"Crime,Drama,Mystery,Thriller",United States,English,95
+Barbie and the Three Musketeers,2009,0,6.1,,William Lau,"Animation,Family",United States,English,81
+The Colony,2013,,5.3,0.21,Hark Tsui,"Action,Comedy,Sci-Fi,Thriller","United States,Hong Kong","English,Italian",93
+Free Willy 3: The Rescue,1997,7,4.7,0.44,Sam Pillsbury,"Adventure,Drama,Family",United States,English,86
+Black Cop,2017,,5,0.82,Cory Bowles,Drama,Canada,English,91
+Vault,2019,18,5.4,,Tom DeNucci,"Action,Crime,Drama,History,Thriller",United States,English,99
+Primal,2010,,4.9,0.75,Nick Powell,Action,United States,English,97
+Dark Shadows: The Haunting of Collinwood,2009,7,8,,,"Drama,Fantasy,Horror",United States,English,210
+Nobody's Fool,2018,18,4.8,0.24,Tyler Perry,"Comedy,Drama,Romance",United States,English,110
+Bare,2015,,5.3,0.50,Natalia Leite,"Drama,Romance",United States,English,90
+Once Upon a Time in Venice,2017,18,5.3,0.21,Mark Cullen,"Action,Comedy",United States,English,94
+Passage to Mars,2016,,4.5,0.29,Jean-Christophe Jeauffre,Adventure,United States,"English,French",94
+Mapplethorpe,2018,,6.1,0.30,Ondi Timoner,"Biography,Drama",United States,English,102
+Gintama,2017,13,6.2,0.20,,"Animation,Action,Comedy,Sci-Fi",Japan,Japanese,
+Dr. Feelgood,2016,16,6.6,0.83,,"Biography,Reality-TV",United States,English,
+The Burden,2017,,7,0.97,Niki Lindroth von Bahr,"Animation,Short,Comedy,Drama,Musical",Sweden,Swedish,15
+The Tomorrow Man,2019,13,5.7,0.42,Noble Jones,"Drama,Romance",United States,English,94
+Pokémon the Movie: Volcanion and the Mechanical Marvel,2016,7,6,,Kunihiko Yuyama,"Animation,Action,Adventure,Family,Fantasy",Japan,Japanese,90
+Half Magic,2018,18,4.6,0.55,Heather Graham,"Comedy,Romance",United States,"English,Spanish",94
+Frank Serpico,2017,,6.7,0.75,Antonino D'Ambrosio,"Documentary,Biography",United States,English,98
+Bangkok Dangerous,2008,18,5.4,0.08,"Danny Pang,Oxide Chun Pang","Action,Crime,Thriller","United States,Czech Republic,Thailand","English,Thai",99
+XX/XY,2002,18,5.9,0.43,Austin Chick,"Drama,Romance",United States,English,91
+Girl Most Likely,2012,13,5.8,0.22,"Shari Springer Berman,Robert Pulcini",Comedy,United States,"English,French,Romanian,Dutch,Mandarin",103
+ma ma,2015,18,6.4,0.25,Julio Medem,Drama,"Spain,France",Spanish,111
+Havana Motor Club,2015,,7.3,0.88,Bent-Jorgen Perlmutt,"Documentary,Drama,Sport","Cuba,United States","Spanish,English",80
+Knives and Skin,2019,,5,0.68,Jennifer Reeder,Drama,United States,English,111
+Body at Brighton Rock,2019,18,5.3,0.66,Roxanne Benjamin,"Horror,Mystery,Thriller",United States,English,87
+The Strange Ones,2018,18,5,0.54,"Christopher Radcliff,Lauren Wolkstein","Drama,Thriller",United States,English,81
+Legends of Oz: Dorothy's Return,2014,7,5.1,0.17,"Will Finn,Daniel St. Pierre","Animation,Adventure,Family,Fantasy,Musical","United States,India",English,88
+Naz & Maalik,2014,,5.8,0.79,Jay Dockendorf,"Adventure,Comedy,Drama,Romance",United States,English,86
+The Snow Queen 3: Fire and Ice,2016,7,6.2,,Aleksey Tsitsilin,"Animation,Adventure,Comedy,Family,Fantasy",Russia,Russian,89
+Black Rock,2012,18,4.7,0.52,Katie Aselton,"Horror,Thriller",United States,English,83
+Loro 1,2018,,6.7,,Paolo Sorrentino,"Biography,Drama","Italy,France",Italian,104
+Banking on Bitcoin,2016,7,6.6,,Christopher Cannucciari,"Documentary,History,News",United States,English,90
+The Cokeville Miracle,2015,13,5.2,,T.C. Christensen,"Drama,Family,History,Mystery,Thriller",United States,English,94
+The Ramen Girl,2008,13,6.3,,Robert Allan Ackerman,"Comedy,Drama,Romance","United States,Japan","Japanese,English",102
+Saint,2010,,5.5,0.55,Dick Maas,"Comedy,Horror",Netherlands,Dutch,85
+The Boost,1988,18,6.1,0.38,Harold Becker,"Drama,Romance",United States,English,95
+A Cinderella Christmas,2016,0,6.3,,Tosca Musk,"Comedy,Romance",United States,English,93
+Manglehorn,2015,13,5.6,0.50,David Gordon Green,Drama,United States,English,97
+Matriarch,2018,18,5.4,,Scott Vickers,"Horror,Thriller",United Kingdom,English,91
+Neat: The Story of Bourbon,2018,,7.4,,David Altrogge,Documentary,United States,English,75
+Sheep & Wolves,2016,0,5.8,,"Andrey Galat,Maksim Volkov","Animation,Comedy,Family,Fantasy",Russia,Russian,85
+The Prince,2014,18,4.6,,,Drama,Egypt,Arabic,
+The Mountain,2019,,5.5,0.64,Rick Alverson,Drama,United States,"English,French,German",106
+Dr. T & the Women,2000,18,4.6,0.56,Robert Altman,"Comedy,Drama,Romance","United States,Germany","English,German,Spanish",122
+Assassination Tango,2002,18,5.8,0.47,Robert Duvall,"Crime,Drama,Romance,Thriller","United States,Argentina","English,Spanish,German",114
+The Pagan King,2018,18,6.2,,Aigars Grauba,"Action,Drama,History,War","United Kingdom,Latvia",English,114
+Sneakerheadz,2015,,6.4,0.58,"David T. Friendly,Mick Partridge",Documentary,United States,English,73
+Casa de los Babys,2003,18,6.3,0.58,John Sayles,Drama,"United States,Mexico","English,Spanish",95
+Trespassers,2019,,5,0.59,Orson Oblowitz,"Horror,Thriller",United States,English,88
+Tracktown,2017,,5.5,0.73,"Alexi Pappas,Jeremy Teicher","Drama,Sport",United States,English,88
+Serena,2014,18,5.4,0.16,Susanne Bier,"Drama,History,Romance","Czech Republic,France,United States",English,109
+Barbie in A Mermaid Tale 2,2012,0,6,,William Lau,"Animation,Family","Canada,United States",English,73
+Four Lovers,2010,,5.6,,Antony Cordier,Romance,France,"French,English",103
+Barbie in 'A Christmas Carol',2008,0,6.3,,William Lau,"Animation,Family","United States,Canada",English,76
+Stung,2015,,5.1,0.53,Benni Diez,"Action,Adventure,Comedy,Horror,Sci-Fi,Thriller",Germany,English,87
+Blind,2017,18,5.8,0.19,Eskil Vogt,Drama,"Norway,Netherlands",Norwegian,96
+Food Choices,2016,7,7.3,,Michal Siewierski,Documentary,United States,"English,Spanish,German,French",91
+Dismissed,2017,,5.7,,Benjamin Arfmann,"Drama,Horror,Thriller",United States,English,87
+Trick,2019,,5,0.32,Patrick Lussier,Horror,United States,,100
+The Confessions,2016,,6.1,0.50,Roberto Andò,"Drama,Mystery,Thriller","Italy,France","Italian,English,French,German",108
+Wakko's Wish,1999,0,7.2,,"Liz Holzman,Rusty Mills,Tom Ruegger,Russell Calabrese,Nelson Recinos,Greg Reyna,Kirk Tingblad,Charles Visser","Animation,Adventure,Comedy,Drama,Family,Fantasy,Musical",United States,English,80
+K: Missing Kings,2014,16,7.1,,Shingo Suzuki,"Animation,Action,Fantasy",Japan,Japanese,73
+Sprung,1997,18,5,0.22,Rusty Cundieff,"Comedy,Romance",United States,English,105
+Most Likely to Murder,2018,18,5.1,0.62,Dan Gregor,Comedy,United States,English,90
+Liz in September,2014,,5.9,,Fina Torres,"Drama,Romance",Venezuela,Spanish,100
+Astral,2018,18,5.5,,Chris Mul,"Drama,Horror,Sci-Fi,Thriller",United Kingdom,English,83
+Barbie: The Pearl Princess,2013,0,6.2,,Ezekiel Norton,"Animation,Family",,English,73
+Raze,2013,18,5.2,0.45,Josh C. Waller,"Action,Drama,Horror",United States,English,87
+A Teacher,2013,,4.7,0.34,Hannah Fidell,"Drama,Romance",United States,English,75
+Hannie Caulder,1971,18,6.3,,Burt Kennedy,"Crime,Drama,Western",United Kingdom,English,85
+Daylight's End,2016,,5.4,,William Kaufman,"Action,Fantasy,Horror,Sci-Fi",United States,English,105
+Passport to Paris,1999,0,5.3,,Alan Metter,"Family,Comedy",United States,"French,English",87
+Coffin Rock,2009,,5.3,0.70,Rupert Glasson,"Drama,Thriller","Australia,United Kingdom,New Zealand",English,92
+The Thousand Faces of Dunjia,2017,7,5.4,0.33,Woo-Ping Yuen,"Action,Adventure,Fantasy","China,Hong Kong",Mandarin,113
+Damascus Cover,2018,18,5.1,0.14,Daniel Zelik Berk,"Mystery,Thriller",United Kingdom,"Arabic,German,English",93
+Wrinkles the Clown,2019,,4.8,0.71,Michael Beach Nichols,"Documentary,Comedy,Horror,Mystery",United States,English,75
+Gator,1976,7,5.9,,Burt Reynolds,"Action,Crime,Drama",United States,English,115
+Get Big,2017,,6.3,,Dylan Anthony Moran,"Comedy,Drama",United States,English,86
+The Dinner,2017,18,4.5,0.46,Jay Roach,Comedy,United States,English,114
+Into the Ashes,2019,,5.6,0.28,Aaron Harvey,"Crime,Drama,Mystery,Thriller",United States,English,98
+A Madea Family Funeral,2019,13,4.4,0.12,Tyler Perry,Comedy,United States,English,109
+Barbie & Her Sisters in the Great Puppy Adventure,2015,0,6.3,,"Andrew Tan,Michael Goguen","Animation,Adventure,Family",United States,English,76
+Swindle,2013,0,6.3,,Jonathan Judge,"Action,Adventure,Comedy,Crime,Family","United States,Canada",English,91
+Lemon,2017,,4.6,0.56,Janicza Bravo,"Comedy,Drama",United States,English,83
+Breakup at a Wedding,2013,13,5.1,0.67,Victor Quinaz,Comedy,United States,English,85
+Radioflash,2019,,5.9,,Ben McPherson,"Drama,Sci-Fi,Thriller",United States,English,103
+Action Point,2018,18,5.1,0.13,Tim Kirkby,Comedy,"United States,South Africa",English,85
+Strategic Air Command,1955,,6.4,,Anthony Mann,"Action,Drama,War",United States,English,112
+The Treasure,2015,,6.7,,Sharif Arafah,"Action,Adventure,Drama,Music",Egypt,Arabic,157
+Tyrel,2018,,5.2,0.60,Sebastián Silva,"Comedy,Drama",United States,English,86
+Some Kind of Hero,1982,18,5.8,0.40,Michael Pressman,"Comedy,Crime,Drama,War",United States,English,97
+The Houses October Built 2,2017,,5.4,0.17,Bobby Roe,Horror,United States,English,101
+Repentance,2014,18,4.9,0.20,Philippe Caland,"Drama,Horror,Thriller",United States,English,90
+We Die Young,2019,18,5.3,,Lior Geller,"Action,Crime,Drama,Thriller","Bulgaria,United States",English,92
+Middle of Nowhere,2008,18,6.5,,John Stockwell,"Comedy,Drama,Romance",United States,English,95
+The Layover,2017,18,4.7,,William H. Macy,"Comedy,Romance",United States,English,88
+Ismael's Ghosts,2017,18,5.6,0.51,Arnaud Desplechin,"Drama,Romance,Thriller",France,"French,Hebrew",114
+The Challenge,2016,,6.2,0.78,,"Adventure,Game-Show,Reality-TV",United States,English,30
+Ride,2018,,4.7,,Jeremy Ungar,"Action,Thriller",United States,English,79
+Billboard Dad,1998,0,5.3,,Alan Metter,"Comedy,Family,Romance",United States,English,92
+American Gun,2005,18,6.1,0.39,Aric Avelino,Drama,United States,English,95
+Devil's Gate,2017,,5.1,0.33,Clay Staub,"Horror,Sci-Fi,Thriller",Canada,English,94
+Contracted: Phase II,2015,,5.1,0.38,Josh Forbes,"Drama,Horror,Thriller",United States,English,78
+Silent Tongue,1993,13,5.3,0.38,Sam Shepard,"Drama,Horror,Western","France,Netherlands,United Kingdom,United States",English,102
+Along Came the Devil,2018,16,3.9,0.38,Jason DeVan,"Drama,Horror,Thriller",United States,English,89
+Status Update,2018,13,5.7,,Scott Speer,"Comedy,Fantasy,Romance","Canada,United States,China",English,106
+Noma: My Perfect Storm,2015,,6.2,0.57,Pierre Deschamps,Documentary,United Kingdom,"English,Danish,Spanish,Albanian,Swedish,French",100
+Furry Vengeance,2010,7,3.8,,Roger Kumble,"Comedy,Family","United States,United Arab Emirates",English,92
+Coastlines,2002,18,5.8,0.48,Victor Nunez,"Crime,Drama,Thriller",United States,English,110
+Wounds,2019,18,4,0.51,Babak Anvari,"Drama,Horror,Mystery,Thriller","United States,United Kingdom",English,95
+Crawlers,2020,,5.4,,Gisyerg Bermudez,Horror,United States,English,90
+Missing 411,2017,,6.4,,"Michael DeGrazier,Benjamin Paulides",Documentary,United States,English,98
+Affairs of State,2018,18,4.5,,Eric Bross,Drama,United States,English,97
+A Score to Settle,2019,,4.6,0.15,Shawn Ku,"Action,Crime,Drama,Thriller","Canada,United States","English,Spanish,Italian",103
+Almost Human,2013,,4.6,0.45,,"Action,Crime,Drama,Sci-Fi",United States,English,60
+Making Plans for Lena,2009,,6.1,0.50,Christophe Honoré,Drama,France,"French,German,English,Italian",105
+The Sweet Life,2017,,6.2,,Federico Fellini,"Comedy,Drama","Italy,France","Italian,English,French,German",174
+White Night Wedding,2008,,6.7,0.29,Baltasar Kormákur,"Comedy,Drama",Iceland,"Icelandic,English",96
+It Came from the Desert,2017,,4.2,0.60,Marko Mäkilaakso,"Action,Adventure,Comedy,Horror,Sci-Fi,Thriller","Finland,United Kingdom,Canada","English,Spanish",90
+Ballet Now,2018,,6.9,,Steven Cantor,Documentary,United States,English,74
+The Midnight Man,2016,,4.8,,Marcus Dunstan,"Action,Crime,Horror,Thriller",United States,English,90
+The Taste of Money,2012,,5.7,0.28,Sang-soo Im,"Drama,Thriller",South Korea,"Korean,English,Tagalog",115
+Getaway,2013,13,4.4,0.02,Sam Peckinpah,"Action,Crime,Thriller",United States,"English,Spanish",123
+Mass Effect: Paragon Lost,2012,7,5.9,,Atsushi Takeuchi,"Animation,Action,Sci-Fi","United States,Japan,Canada,South Korea","Japanese,English",84
+Trapped: The Alex Cooper Story,2019,16,6,,Jeffrey G. Hunt,"Biography,Drama",United States,English,87
+All Around Us,2008,,7.6,,Tristan David Luciotti,Documentary,United States,English,
+Barbie Presents: Thumbelina,2009,0,5.7,,Conrad Helten,"Animation,Family","Canada,United States",English,75
+Madonna and the Breakfast Club,2019,,6.6,,Guy Guido,"Documentary,Drama",United States,,105
+The Sound of Silence,2019,,5.5,0.65,Michael Tyburski,Drama,United States,English,85
+Don't Go,2018,,5.2,0.39,David Gleeson,Mystery,Ireland,English,91
+Ozzy,2016,0,5.2,,"Alberto Rodríguez,Nacho La Casa","Animation,Adventure,Comedy,Family","Spain,Canada","Spanish,English",90
+Tell Them Anything You Want: A Portrait of Maurice Sendak,2009,13,8,,"Lance Bangs,Spike Jonze","Documentary,Short",United States,English,39
+Breaking the Girls,2013,,5.1,0.11,Jamie Babbit,"Crime,Thriller",United States,English,83
+"Literally, Right Before Aaron",2017,16,4.5,0.25,Ryan Eggold,"Comedy,Drama",United States,English,102
+Inside,2017,,4.8,0.32,Andrés Baiz,"Drama,Mystery,Thriller","Colombia,Spain",Spanish,97
+Pokémon the Movie: Diancie and the Cocoon of Destruction,2014,7,5.6,,Kunihiko Yuyama,"Animation,Action,Adventure,Comedy,Family,Fantasy",Japan,"Japanese,English",76
+The Simone Biles Story: Courage to Soar,2018,7,6.6,,Vanessa Parise,"Biography,Drama,Sport",United States,English,86
+Pokémon the Movie: Hoopa and the Clash of Ages,2015,7,6,,Kunihiko Yuyama,"Animation,Action,Adventure,Family,Fantasy",Japan,"Japanese,English",79
+Curious George 2: Follow That Monkey!,2009,0,5.6,,Norton Virgien,"Animation,Family",United States,English,80
+I'll Come Running,2008,18,6.8,,Spencer Parsons,"Drama,Romance","Denmark,United States","English,Danish",112
+Ron White: A Little Unprofessional,2012,,7.4,,Tom Forrest,Comedy,United States,English,120
+Out of the Dark,2014,18,4.8,0.24,Lluís Quílez,"Horror,Thriller","United States,United Arab Emirates,Colombia,Spain",English,92
+The Sender,1982,18,6,,Roger Christian,"Drama,Horror,Sci-Fi,Thriller",United Kingdom,English,91
+Santa Hunters,2014,0,4.5,,Savage Steve Holland,"Comedy,Family","Canada,United States",English,65
+Beers of Joy,2019,,8.1,,"David Swift,Scott Owen,David Swift",Documentary,United States,English,118
+Every Other Holiday,2018,,7.1,,Blair Hayes,"Drama,Family,Romance",,English,90
+The Swan Princess: The Mystery of the Enchanted Kingdom,1998,0,5.7,,Richard Rich,"Animation,Family,Fantasy,Mystery",United States,English,71
+Blurt!,2018,0,5.9,,Michelle Johnston,"Action,Comedy,Family",United States,English,52
+Eyes of an Angel,1991,13,5.4,,Robert Harmon,Drama,United States,English,95
+Good Time Max,2008,,6.1,,James Franco,Drama,United States,English,79
+Switching Goals,1999,0,5.1,,Mike Jeavons,Comedy,,,12
+F*&% the Prom,2017,,4.2,,Benny Fine,"Comedy,Drama",United States,English,92
+Higher Power,2018,18,5,,Matthew Charles Santoro,"Action,Sci-Fi,Thriller",United States,English,93
+Curious George: A Very Monkey Christmas,2009,0,6.4,,"Scott Heming,Cathy Malkasian,Jeff McGrath","Animation,Adventure,Family",United States,English,58
+Monogamy,2010,,5,0.48,,Drama,United States,English,30
+Barbie: A Perfect Christmas,2011,0,5.7,,Mark Baldo,"Animation,Family",United States,English,74
+Bernie the Dolphin,2018,0,5,,Kirk Harris,"Adventure,Comedy,Family",Canada,English,88
+The Château,2001,18,5.2,0.50,Jesse Peretz,"Comedy,Drama,Romance",United States,"English,French",91
+The Other Man,2008,18,5.4,0.15,Richard Eyre,"Drama,Mystery,Thriller","United Kingdom,United States",English,88
+Above and Beyond: NASA's Journey to Tomorrow,2018,,7.9,,Rory Kennedy,Documentary,United States,English,90
+35 and Ticking,2011,18,5.6,,Russ Parr,"Comedy,Romance",United States,English,104
+Naughty & Nice,2014,7,6,,Sam Irvin,"Comedy,Romance",United States,English,88
+Victoria Gotti: My Father's Daughter,2019,7,5.4,,Catherine Cyran,"Crime,Drama",United States,English,86
+Respectable: The Mary Millington Story,2016,,6.9,,Simon Sheridan,"Documentary,Biography",United Kingdom,English,109
+Death Bell,2008,,5.7,,Hong-Seung Yoon,"Horror,Thriller",South Korea,Korean,88
+We Are Columbine,2019,,6.8,,Laura Farber,Documentary,United States,English,83
+The Appeared,2008,18,6.1,,Paco Cabezas,Horror,"Sweden,Argentina,Spain",Spanish,120
+Dragon Age: Dawn of the Seeker,2012,,5.8,,Fumihiko Sori,"Animation,Action,Adventure,Fantasy","United States,Japan",English,90
+Addicted to Sexting,2015,,3.8,,Joseph Tosconi,Documentary,United States,English,80
+RoboGeisha,2009,18,5.3,,Noboru Iguchi,"Action,Comedy,Sci-Fi",Japan,Japanese,102
+Big Voice,2015,0,8,,Varda Bar-Kar,"Documentary,Biography,Family,Music,Musical",United States,English,83
+Nina,2016,,5.4,0.02,John Badham,"Action,Crime,Drama,Thriller",United States,"English,French",109
+Josie,2018,,5.2,0.13,Eric England,"Drama,Thriller",United States,English,100
+The Con Is On,2018,18,4.2,,James Oakley,Comedy,"United States,United Kingdom","English,Spanish,Japanese,Russian,Chinese",90
+Feral,2018,,4.6,0.33,Mark Young,"Action,Drama,Horror,Thriller",United States,English,90
+Second Chance Christmas,2017,0,5.8,,Danny Buday,"Comedy,Drama,Romance",United States,English,120
+Eve's Christmas,2004,7,6,,Timothy Bond,"Comedy,Family","Canada,United States",English,96
+A Guide to Second Date Sex,2019,,5.3,0.43,Rachel Hirons,"Comedy,Romance",United Kingdom,English,98
+No Holds Barred,1989,13,4.4,0.11,Thomas J. Wright,"Action,Sport",United States,English,93
+My Valentine,2020,13,4.4,,"Pornchai Hongrattanaporn,Songsak Mongkolthong,Seree Phongnithi","Comedy,Romance",Thailand,Thai,90
+Killers Anonymous,2019,18,5.3,,Martin Owen,"Action,Crime,Mystery,Thriller",United Kingdom,English,95
+Lewis Black: Old Yeller - Live at the Borgata,2013,18,7.4,,Zach Nial,"Documentary,Comedy",United States,English,82
+The Reunion,2011,13,5.2,0.08,Michael Rosenbaum,Comedy,"United Kingdom,United States",English,94
+The Intended,2002,18,5.8,0.33,Kristian Levring,"Drama,Thriller","United Kingdom,Denmark",English,110
+Roller Dreams,2017,,7.9,0.86,Kate Hickey,Documentary,"United States,Australia",English,82
+Midnight Kiss,2019,,4.7,,Joel Bender,Horror,United States,English,85
+Allure,2018,,4.9,0.38,"Carlos Sanchez,Jason Sanchez","Drama,Romance,Thriller",Canada,English,105
+Concrete Kids,2018,,6.4,,Lije Sarki,"Adventure,Family,Sport",United States,English,82
+Into the Dark: I'm Just F*cking With You,2019,,5.5,,Adam Mason,"Horror,Thriller",United States,English,81
+Gilbert Gottfried: Dirty Jokes,2005,18,7.2,,Adam Reid,Comedy,United States,English,50
+Catching Faith,2015,,4.8,,John K.D. Graham,"Drama,Family,Sport",United States,English,88
+Penumbra,2012,,5.5,0.50,"Adrián García Bogliano,Ramiro García Bogliano","Horror,Thriller","Argentina,Mexico",Spanish,90
+Kill Order,2017,,4.1,0.25,James Mark,"Action,Sci-Fi",Canada,English,77
+Paper Covers Rock,2008,,6.6,,Joe Maggio,Drama,United States,English,90
+Racetime,2018,7,5.5,,"Benoît Godbout,Jean-François Pouliot,François Brisson","Animation,Adventure,Musical",Canada,English,89
+Margaret Atwood: A Word After a Word After a Word Is Power,2019,,7.5,,"Nancy Lang,Peter Raymont",Documentary,Canada,English,93
+The Disappointments Room,2016,18,3.9,,D.J. Caruso,"Drama,Horror,Thriller",United States,English,85
+Brad Paisley Thinks He's Special,2019,,8.5,,,Music,United States,,
+Daphne & Velma,2018,0,4.2,,Suzi Yoonessi,"Action,Comedy,Crime,Horror,Mystery",United States,English,72
+Albert,2016,0,6.4,,Karsten Kiilerich,"Animation,Action,Adventure,Comedy,Family",Denmark,"Danish,English",81
+The Eternal,1998,18,4.4,0.33,Michael Almereyda,Horror,United States,English,95
+Faintheart,2008,,6.3,0.20,Vito Rocco,"Comedy,Drama,Romance",United Kingdom,"English,Klingon",92
+Slumber,2017,18,4.7,,Jonathan Hopkins,Horror,"United Kingdom,United States",English,84
+Telescope,2016,7,7.8,,,Documentary,Canada,English,30
+Tetsuo: The Bullet Man,2009,,5.6,,Shin'ya Tsukamoto,"Action,Horror,Sci-Fi",Japan,English,71
+Cover Versions,2018,18,5.4,,Todd Berger,"Music,Mystery,Thriller",United States,English,87
+Warpath,1951,,6.3,,Byron Haskin,"Drama,Western",United States,English,95
+"Good Morning, Killer",2011,16,5.1,,Maggie Greenwald,"Crime,Drama,Mystery,Thriller",United States,English,93
+Rosy,2018,,4.7,,Jess Bond,"Comedy,Romance,Thriller",United States,English,92
+Another Time,2018,18,4.5,,Thomas Hennessy,"Adventure,Comedy,Romance,Sci-Fi",United States,English,89
+Beyond Paradise,2015,7,5.7,,J.J. Alani,"Drama,Romance",United States,English,101
+Alive,2018,,,,Frank Marshall,"Adventure,Biography,Drama,Thriller","United States,Canada",English,120
+Hide,2011,16,5.2,,John Gray,"Drama,Thriller",United States,English,88
+Diary of a Hitman,1991,18,5.3,,Roy London,"Crime,Drama",United States,English,90
+Hellions,2015,,4.2,0.27,Bruce McDonald,"Drama,Horror,Thriller",Canada,English,80
+Funke,2018,,7.8,,Gab Taraboulsy,Documentary,United States,English,89
+Backtrace,2018,18,3.7,0.11,Brian A. Miller,"Action,Crime,Drama",United States,English,92
+Where Do We Go from Here?,2018,,6.5,,John McPhail,"Comedy,Romance",United Kingdom,English,82
+Narcopolis,2015,,4.4,0.18,Justin Trefgarne,"Mystery,Sci-Fi,Thriller",United Kingdom,English,96
+Angels in the Snow,2015,,5.7,,George Erschbamer,Family,United States,English,90
+Crooked Hearts,1991,18,6,,Michael Bortman,"Drama,Romance",United States,English,113
+Sex Guaranteed,2017,,4.8,,"Brad Barnes,Todd Barnes",Comedy,United States,English,81
+Deck the Halls,2011,13,5.1,,John Whitesell,"Comedy,Family",United States,"English,German",93
+Ghost Team,2016,13,4.6,0.11,Oliver Irving,"Comedy,Thriller",United States,English,83
+Crazy About Tiffany's,2016,,5.7,0.27,Matthew Miele,Documentary,United States,English,86
+Curious George: Royal Monkey,2019,0,5.8,,Doug Murphy,"Animation,Adventure,Comedy,Family,Fantasy",United States,English,86
+A Fairytale Christmas,2013,7,5.3,,Alex Wright,"Drama,Family,Romance",United States,English,85
+Inside Out,2011,13,4.5,0.25,"Pete Docter,Ronnie Del Carmen","Animation,Adventure,Comedy,Drama,Family,Fantasy",United States,English,95
+Person to Person,2014,,7,,Dustin Guy Defa,"Comedy,Drama",United States,English,84
+Savage Youth,2018,,5.2,,Michael Curtis Johnson,"Crime,Drama",United States,English,100
+Girlfriends of Christmas Past,2016,0,5.3,,Jake Helgren,"Comedy,Romance",United States,English,90
+My Santa,2013,7,5.5,,Sugeeth,Comedy,India,Malayalam,153
+Robo-Dog: Airborne,2017,0,4.8,,Anthony Steven Giordano,Family,United States,English,88
+More Barney songs,1999,0,5.8,,"Alexander Laughton,Fred Holmes","Family,Music",United States,English,55
+Let's Be Evil,2016,,4.2,0.15,Martin Owen,"Horror,Sci-Fi,Thriller",United Kingdom,,82
+Dark Shadows: The Vampire Curse,2009,,7.5,,,"Drama,Fantasy,Horror",United States,English,210
+Rain,2006,0,5.7,,,"Action,Thriller",United States,English,
+Urban Country,2018,7,4.8,,Teddy Smith,"Comedy,Drama,Family",United States,English,88
+The Swan Princess: A Royal Family Tale,2014,7,4.6,,Richard Rich,"Animation,Family,Fantasy,Musical","United States,India,South Korea",English,79
+Monkey Business: The Adventures of Curious George's Creators,2017,,8.2,,Ema Ryan Yamazaki,Documentary,United States,English,81
+I Am Alone,2015,,4.5,,Robert A. Palmer,"Drama,Horror,Sci-Fi",United States,English,88
+Julian Schnabel: A Private Portrait,2017,,6.6,0.50,Pappi Corsicato,Documentary,"United States,Italy",English,84
+Brown Girl Begins,2018,,3.6,,Sharon Lewis,"Fantasy,Sci-Fi",Canada,English,70
+Nothing Is Truer than Truth,2018,,7.4,,Cheryl Eagan-Donovan,"Documentary,Biography,History","Italy,United States,United Kingdom",English,75
+Songbird,2018,18,4.1,,Jamie Adams,Drama,United Kingdom,,95
+Robo-Dog,2015,,4.4,,Jason Murphy,"Family,Sci-Fi",United States,English,87
+Unbanned: The Legend of AJ1,2018,,7,,Dexton Deboree,Documentary,United States,English,91
+A Man Alone,1955,,6.4,,Robert Siodmak,"Crime,Drama,Film-Noir,Mystery",United States,English,103
+D.L. Hughley: Reset,2012,18,6.7,,Jay Karas,"Documentary,Comedy",United States,English,58
+Hornet's Nest,2012,16,4.7,,Millicent Shelton,"Crime,Drama",United States,English,90
+All About E,2015,,4.8,,Louise Wadley,"Comedy,Drama,Romance",Australia,"English,Arabic",96
+The Dark Side of The Sun,2017,7,7.7,,Bozidar 'Bota' Nikolic,"Drama,Romance","United States,Canada,Federal Republic of Yugoslavia",English,101
+This One's for the Ladies,2018,18,4.8,0.72,Gene Graham,Documentary,United States,English,82
+Bad Roomies,2015,,5.1,,Jason Schnell,Comedy,United States,English,93
+Random Tropical Paradise,2017,,4.4,,Sanjeev Sirpal,Comedy,United States,English,101
+Delivered,2020,,5.7,,Michael Madison,"Crime,Thriller",United States,English,90
+Last Flight,2014,,3,,Vincent Zhou,"Action,Horror,Thriller",China,"Mandarin,English",86
+The Remains,2016,,3.7,,Thomas Della Bella,"Horror,Thriller",United States,English,85
+Beneath the Darkness,2012,18,4.5,0.04,"Barbara Peeters,Jimmy T. Murakami","Horror,Sci-Fi",United States,English,80
+The Box,2018,,5.7,,Richard Kelly,"Drama,Fantasy,Mystery,Sci-Fi,Thriller",United States,English,115
+In the Radiant City,2016,,5.5,,Rachel Lambert,Drama,United States,English,95
+Against the Wild II: Survive the Serengeti,2016,7,4.6,,Richard Boddington,Adventure,"Canada,South Africa",English,91
+Bigfoot Girl,2019,,2.8,,Jason Mills,Documentary,United States,English,75
+The Eagle and the Hawk,1950,,6,,Stuart Walker,"Action,Drama,War",United States,"English,French",73
+A Mermaid's Tale,2017,0,4.8,,Dustin Rikert,"Adventure,Drama,Family",United States,English,92
+Beyond the Comfort Zone - 13 Countries to K2,2018,,6.2,,Nils Krebs,"Documentary,Adventure",Germany,"English,French,Swiss German",90
+Kill Thy Neighbor,2019,16,4.5,,Ben Meyerson,"Drama,Thriller",United States,English,90
+Back to Christmas,2014,7,5.7,,Tim O'Donnell,"Drama,Fantasy,Romance",United States,English,86
+PawParazzi,2019,0,4.1,,Ari Novak,Family,United States,English,97
+A Cam Life,2018,,4.9,,,Documentary,United States,English,77
+Broken Star,2018,16,4.3,,Dave Schwep,Thriller,United States,English,90
+Knights of the Damned,2017,,2.5,,Simon Wells,"Action,Fantasy,Horror",United Kingdom,English,84
+Monsters at Large,2018,7,5.3,,Jason Murphy,Family,United States,English,91
+9/11: 15 years later,2016,,0,,,Documentary,Netherlands,English,60
+Cannabis Evolution,2019,,7.3,,Philip Gardiner,Documentary,United States,English,70
+Sharp Edges,1986,13,6.9,,Sandra Luckow,Documentary,United States,English,52
+Ricochet,2011,16,4.6,,Russell Mulcahy,"Action,Crime,Drama,Thriller",United States,English,102
+The Quest of Alain Ducasse,2017,,5.7,0.69,Gilles de Maistre,Documentary,France,"French,English,Japanese,Portuguese,Chinese",84
+Benjamin,2019,18,3.3,,Simon Amstell,"Comedy,Romance",United Kingdom,English,85
+A Fairly Odd Christmas,2012,0,4.6,,Savage Steve Holland,"Animation,Comedy,Family,Fantasy",United States,"English,Spanish,Japanese",68
+EuroTrump,2017,,6.8,,"Nick Hampson,Stephen Robert Morse",Documentary,"United States,United Kingdom",English,92
+Holly's Holiday,2012,16,5.5,,Jim Fall,"Comedy,Fantasy,Romance",United States,English,85
+"A Fairly Odd Movie: Grow Up, Timmy Turner!",2011,7,4,,Savage Steve Holland,"Animation,Comedy,Family,Fantasy","United States,Canada",English,48
+Fan Girl,2015,13,4.7,,Paul Jarrett,"Comedy,Family,Music",United States,English,100
+The Man Who Used to Be Me,2000,,4.9,,Jeff Woolnough,"Sci-Fi,Thriller","Canada,United States",English,88
+So This Is Christmas,2013,,4.2,,Richard Foster,"Comedy,Drama,Family,Romance",United States,English,115
+Santee,1973,7,5.8,,Gary Nelson,Western,United States,English,93
+His and Her Christmas,2005,7,5.4,,Farhad Mann,"Comedy,Drama,Romance","United States,Canada",English,89
+Air Strike,2018,18,3.2,,Xiao Feng,"Action,Adventure,Drama,War",China,"Chinese,English,Japanese",120
+The School,2018,18,3.8,,Storm Ashwood,"Horror,Thriller","Australia,United Arab Emirates",English,86
+No Way Out,2015,,4.5,,Roger Donaldson,"Action,Crime,Drama,Mystery,Romance,Thriller",United States,"English,Russian",114
+Cherry Pop,2017,,4.4,,Assaad Yacoub,"Comedy,Musical",United States,English,79
+Treasure Hounds,2017,7,3.8,,Tim Brown,Family,Canada,English,88
+I Love You Both,2017,,4.2,,Doug Archibald,"Comedy,Drama",United States,English,90
+24 Hour Love,2013,18,3.8,,Fred Thomas Jr.,Drama,United States,English,98
+Pony Express,1953,,5.9,,,"Romance,Western",United States,English,60
+After Darkness,2019,18,3.6,,Batan Silva,"Drama,Family,Sci-Fi,Thriller","Mexico,United States",English,98
+Hunting JonBenet's Killer: The Untold Story,2019,,6.1,,,Drama,United States,English,
+Barney's Night Before Christmas,1999,0,5.1,,Ben Vaughn,Family,United States,English,57
+The Unauthorized Saved by the Bell Story,2014,7,4.6,,Jason Lapeyre,"Biography,Comedy,Drama",Canada,English,88
+10.0 Earthquake,2014,7,3.4,,David Gidali,"Action,Adventure,Drama,Sci-Fi,Thriller",United States,English,88
+Rodeo and Juliet,2015,,4.6,,Will Mathison,"Short,Western",United States,English,
+The Age of Reason,2014,,6.2,,Yann Samuell,"Comedy,Romance","France,Belgium","French,English",97
+Hot Guys with Guns,2013,,5.6,,Doug Spearman,"Action,Comedy,Romance,Thriller",United States,"English,Spanish",105
+Richard The Lionheart,2013,18,2.3,,Stefano Milla,"Action,Adventure","United States,Italy",English,100
+Crimes of Fashion,2004,,4.8,,Stuart Gillard,Comedy,United States,English,90
+A.R.C.H.I.E. 2: Mission Impawsible,2018,7,5,,Robin Dunne,Family,Canada,English,82
+The Armstrong Tapes,2019,,6.8,,Liz Reph,Documentary,United States,English,44
+The Overbrook Brothers,2009,,6.4,,John E. Bryant,"Comedy,Drama",United States,English,92
+"Michael Jackson: Life, Death and Legacy",2012,,6.1,,Maureen Goldthorpe,Documentary,United States,English,75
+Playin' for Love,2015,,6.1,,"Robert Townsend,Elijah Nathaniel Wells",Comedy,United States,English,84
+Step Dogs,2013,,4.5,,Geoff Anderson,"Comedy,Family",Canada,English,82
+Danny Roane: First Time Director,2006,18,4.5,,Andy Dick,Comedy,United States,English,83
+Against the Clock,2019,,2.6,,Mark Polish,Thriller,United States,English,102
+Night of the Living Dead 3D,2007,18,3.1,,Jeff Broadstreet,Horror,United States,English,80
+The Row,2018,18,3.3,,Matty Beckerman,"Horror,Thriller","Canada,United States",English,85
+Law of the Lawless,1964,,6.1,,,"Action,Crime,Drama",Russia,Russian,750
+The Tall Stranger,1957,,6.3,,Thomas Carr,Western,United States,English,81
+Pegasus: Pony With a Broken Wing,2019,0,3.9,,Giorgio Serafini,Family,United States,English,86
+Billy the Kid,2013,13,2.2,,Sam Peckinpah,"Biography,Drama,Western","United States,Mexico",English,122
+LeapFrog Letter Factory Adventures: Amazing Word Explorers,2015,0,,,Craig George,"Animation,Short,Family",,,38
+Where We Go from Here,2019,,4.4,,Anthony Meindl,Drama,United States,"English,French",90
+My Dad Is Scrooge,2014,,4.4,,Justin G. Dyck,"Comedy,Family",Canada,English,87
+LeapFrog: Adventures in Shapeville Park,2013,,6.2,,Ron Myrick,Short,United States,English,35
+12 Dog Days Till Christmas,2014,,4.8,,Charlie Vaughn,Family,United States,English,90
+The Lonely Man,1957,,6.5,,Henry Levin,"Drama,Western",United States,English,88
+Cartels,2016,18,3.9,,Keoni Waxman,"Action,Crime,Mystery,Thriller","United States,Monaco",English,95
+Asmodexia,2014,18,4.6,,Marc Carreté,Horror,Spain,Spanish,81
+The Push,2018,,6.6,,Michael Finuoli,Comedy,United States,English,
+The Swan Princess Christmas,2012,7,3.7,,Richard Rich,"Animation,Family,Fantasy,Musical","United States,India,South Korea",English,83
+The Coolest Guy Movie Ever: The Return to the Scene of The Great Escape,2018,,5.2,,Christophe Espenan,Documentary,United States,English,58
+Dust 2 Glory,2017,,5.7,,Dana Brown,Action,United States,English,98
+Gary Owen: I Agree With Myself,2015,18,5.1,,Leslie Small,Comedy,United States,English,75
+Leapfrog: Letter Factory Adventures - The Letter Machine Rescue Team,2014,0,5.9,,Craig George,"Short,Family",United States,English,34
+"Making a Killing: Guns, Greed and the NRA",2016,16,4.1,,Robert Greenwald,Documentary,United States,English,103
+Mutant Species,1995,18,3.5,,David A. Prior,"Horror,Sci-Fi",United States,English,100
+The Clintons: An American Odyssey,2012,,2.7,,Robert Kline,"Documentary,History",United States,English,101
+Boomtown,2017,,5.1,,,"Crime,Drama,Mystery,Thriller",United States,English,45
+Pixi Saves Christmas,2018,,4.2,,Gorka Sesma,Animation,Spain,English,91
+Night of the Living Dead: Resurrection,2012,18,2.5,,James Plumb,Horror,United Kingdom,English,86
+Man-Eating Python,2017,16,4.7,,Mark Beech,Documentary,United States,English,60
+Christmas with the Andersons,2016,7,4.3,,Michael Feifer,"Comedy,Family",United States,English,90
+Alien Contact,2020,,,,Rico Lowry,Documentary,United States,English,75
+Christmas Crush,2012,,,,Marita Grabiak,Comedy,Canada,English,87
+The Damned (2013),2014,18,,,Víctor García,"Horror,Mystery,Thriller",United States,"English,Spanish",87
+Legend of Heroes: Trails in the Sky,2011,13,,,Toshihiro Kondo,Adventure,Japan,Japanese,
